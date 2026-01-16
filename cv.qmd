@@ -1,0 +1,11 @@
+---
+title: "Curriculum Vitae"
+---
+
+## My CV
+
+Below is my professional curriculum vitae. You can also [download it here](documents_/Laurian_kaijage_general_CV.pdf).
+
+```{=html}
+<embed src="documents_/Laurian_kaijage_general_CV.pdf" type="application/pdf" width="100%" height="900px" />
+```

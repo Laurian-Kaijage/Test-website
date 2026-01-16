@@ -1,0 +1,60 @@
+---
+title: "Projects"
+---
+
+## Featured Projects
+
+Here are some of my recent and ongoing projects in marine science, ecological data management, and conservation.
+
+::: {.project-grid}
+
+::: {.card}
+### Coastal Biodiversity Monitoring
+
+**Status**: Ongoing  
+**Organization**: Mwambao Coastal Community Network
+
+Developing and implementing biodiversity monitoring protocols for coastal ecosystems. Using R and spatial analysis tools to track species populations and ecosystem health indicators.
+
+**Skills**: R programming, GIS, Data visualization, Ecological surveys
+:::
+
+::: {.card}
+### Marine Species Database
+
+**Status**: Development
+
+Creating a comprehensive database for tracking marine species observations and occurrences along the coast. Integrated with field data collection tools and automated reporting systems.
+
+**Skills**: Database design, R, Data management, Statistical analysis
+:::
+
+::: {.card}
+### Coastal Conservation Planning
+
+**Status**: Ongoing
+
+Supporting community-based conservation initiatives through data-driven planning and impact assessment. Analyzing ecosystem services and stakeholder engagement strategies.
+
+**Skills**: Conservation planning, Data analysis, Community engagement, Impact assessment
+:::
+
+::: {.card}
+### Climate Resilience Assessment
+
+**Status**: Planning phase
+
+Evaluating coastal ecosystem resilience to climate change impacts. Integrating historical climate data, species distribution models, and community vulnerability assessments.
+
+**Skills**: Climate data analysis, Species distribution modeling, Risk assessment
+:::
+
+:::
+
+## Skills & Technologies
+
+- **Programming**: R, Python, SQL
+- **Tools**: QGIS, ArcGIS, RStudio
+- **Data Analysis**: Statistical modeling, Spatial analysis, Time series analysis
+- **Visualization**: ggplot2, Plotly, Shiny dashboards
+- **Other**: Report writing, Fieldwork coordination, Database management

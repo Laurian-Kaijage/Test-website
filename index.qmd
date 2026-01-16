@@ -1,0 +1,30 @@
+---
+title: "Laurian Kaijage"
+subtitle: "Marine Scientist | Data Analyst"
+image: image/profile.jpg
+about:
+  template: jolla
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/kaijage-laurian-msc-73105617b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+    - icon: envelope
+      text: Email
+      href: lauriankaijage@gmail.com
+---
+
+## Welcome
+
+Hello! I'm Laurian Kaijage, a marine scientist with expertise in ecological data management and coastal conservation. Currently, I work at **Mwambao Coastal Community Network** as the Ecological Data Manager, where I focus on biodiversity monitoring, data analysis, and supporting conservation initiatives.
+
+## My Focus Areas
+
+- **Marine Ecology**: Understanding coastal ecosystems and biodiversity
+- **Data Management**: Collecting, analyzing, and visualizing ecological data
+- **Conservation**: Supporting community-based conservation efforts
+- **Research**: Contributing to marine science through rigorous fieldwork and analysis for data analysis
+
+

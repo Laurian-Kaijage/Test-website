@@ -1,0 +1,42 @@
+---
+title: "About This Site"
+---
+
+## About Laurian Kaijage
+
+This website serves as a portfolio and professional CV showcasing my work in marine science, ecological data management, and coastal conservation. 
+
+### What You'll Find Here
+
+- **Home**: Introduction and overview of my professional background
+- **Projects**: Detailed descriptions of my recent and ongoing projects in marine conservation and data science
+- **CV**: Complete curriculum vitae with education, experience, and skills
+- **About**: Information about this site and how to connect with me
+
+### Professional Background
+
+I am a marine scientist with a strong passion for understanding and protecting coastal ecosystems. With expertise in ecological data management, statistical analysis, and conservation planning, I work to bridge the gap between scientific research and practical conservation implementation.
+
+My work at Mwambao Coastal Community Network focuses on:
+- Biodiversity monitoring and assessment
+- Data-driven conservation planning
+- Community engagement and capacity building
+- Ecosystem resilience and climate adaptation
+
+### Technical Expertise
+
+I am proficient in R programming, GIS analysis, and data visualization. I use these tools to transform raw ecological data into actionable insights that inform conservation decisions and support sustainable management of coastal resources.
+
+### Let's Connect
+
+I'm always interested in collaborating on conservation projects, discussing marine science, or exploring opportunities to apply data science in environmental contexts. Feel free to reach out through:
+
+- **Email**: lauriankaijage@gmail.com
+- **GitHub**: [Laurian Kaijage](https://github.com)
+- **LinkedIn**: [Laurian Kaijage](https://www.linkedin.com/in/kaijage-laurian-msc-73105617b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+
+---
+
+### About This Website
+
+This portfolio website was built using [Quarto](https://quarto.org/), a modern publishing system for combining code, data, and narrative content. The source code is available on [GitHub](https://github.com).

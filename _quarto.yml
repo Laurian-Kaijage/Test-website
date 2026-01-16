@@ -1,0 +1,33 @@
+project:
+  type: website
+  output-dir: _output
+
+website:
+  title: "Laurian Kaijage"
+  description: "Marine Scientist | Ecological Data Manager | Portfolio & CV"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: projects.qmd
+        text: Projects
+      - href: cv.qmd
+        text: CV
+      - href: about.qmd
+        text: About
+    right:
+      - icon: github
+        href: https://github.com
+      - icon: linkedin
+        href: https://linkedin.com
+
+format:
+  html:
+    theme:
+      light: cosmo
+    css: styles.css
+    toc: false
+    code-overflow: wrap
+
+
+

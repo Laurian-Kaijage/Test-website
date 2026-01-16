@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Below is my professional curriculum vitae. You can also download it here."
+  },
+  {
+    "objectID": "cv.html#my-cv",
+    "href": "cv.html#my-cv",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Below is my professional curriculum vitae. You can also download it here."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Laurian Kaijage",
+    "section": "",
+    "text": "Hello! I’m Laurian Kaijage, a marine scientist with expertise in ecological data management and coastal conservation. Currently, I work at Mwambao Coastal Community Network as the Ecological Data Manager, where I focus on biodiversity monitoring, data analysis, and supporting conservation initiatives."
+  },
+  {
+    "objectID": "index.html#welcome",
+    "href": "index.html#welcome",
+    "title": "Laurian Kaijage",
+    "section": "",
+    "text": "Hello! I’m Laurian Kaijage, a marine scientist with expertise in ecological data management and coastal conservation. Currently, I work at Mwambao Coastal Community Network as the Ecological Data Manager, where I focus on biodiversity monitoring, data analysis, and supporting conservation initiatives."
+  },
+  {
+    "objectID": "index.html#my-focus-areas",
+    "href": "index.html#my-focus-areas",
+    "title": "Laurian Kaijage",
+    "section": "My Focus Areas",
+    "text": "My Focus Areas\n\nMarine Ecology: Understanding coastal ecosystems and biodiversity\nData Management: Collecting, analyzing, and visualizing ecological data\nConservation: Supporting community-based conservation efforts\nResearch: Contributing to marine science through rigorous fieldwork and analysis for data analysis"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Here are some of my recent and ongoing projects in marine science, ecological data management, and conservation.\n\n\n\nStatus: Ongoing\nOrganization: Mwambao Coastal Community Network\nDeveloping and implementing biodiversity monitoring protocols for coastal ecosystems. Using R and spatial analysis tools to track species populations and ecosystem health indicators.\nSkills: R programming, GIS, Data visualization, Ecological surveys\n\n\n\nStatus: Development\nCreating a comprehensive database for tracking marine species observations and occurrences along the coast. Integrated with field data collection tools and automated reporting systems.\nSkills: Database design, R, Data management, Statistical analysis\n\n\n\nStatus: Ongoing\nSupporting community-based conservation initiatives through data-driven planning and impact assessment. Analyzing ecosystem services and stakeholder engagement strategies.\nSkills: Conservation planning, Data analysis, Community engagement, Impact assessment\n\n\n\nStatus: Planning phase\nEvaluating coastal ecosystem resilience to climate change impacts. Integrating historical climate data, species distribution models, and community vulnerability assessments.\nSkills: Climate data analysis, Species distribution modeling, Risk assessment"
+  },
+  {
+    "objectID": "projects.html#featured-projects",
+    "href": "projects.html#featured-projects",
+    "title": "Projects",
+    "section": "",
+    "text": "Here are some of my recent and ongoing projects in marine science, ecological data management, and conservation.\n\n\n\nStatus: Ongoing\nOrganization: Mwambao Coastal Community Network\nDeveloping and implementing biodiversity monitoring protocols for coastal ecosystems. Using R and spatial analysis tools to track species populations and ecosystem health indicators.\nSkills: R programming, GIS, Data visualization, Ecological surveys\n\n\n\nStatus: Development\nCreating a comprehensive database for tracking marine species observations and occurrences along the coast. Integrated with field data collection tools and automated reporting systems.\nSkills: Database design, R, Data management, Statistical analysis\n\n\n\nStatus: Ongoing\nSupporting community-based conservation initiatives through data-driven planning and impact assessment. Analyzing ecosystem services and stakeholder engagement strategies.\nSkills: Conservation planning, Data analysis, Community engagement, Impact assessment\n\n\n\nStatus: Planning phase\nEvaluating coastal ecosystem resilience to climate change impacts. Integrating historical climate data, species distribution models, and community vulnerability assessments.\nSkills: Climate data analysis, Species distribution modeling, Risk assessment"
+  },
+  {
+    "objectID": "projects.html#skills-technologies",
+    "href": "projects.html#skills-technologies",
+    "title": "Projects",
+    "section": "Skills & Technologies",
+    "text": "Skills & Technologies\n\nProgramming: R, Python, SQL\nTools: QGIS, ArcGIS, RStudio\nData Analysis: Statistical modeling, Spatial analysis, Time series analysis\nVisualization: ggplot2, Plotly, Shiny dashboards\nOther: Report writing, Fieldwork coordination, Database management"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About This Site",
+    "section": "",
+    "text": "This website serves as a portfolio and professional CV showcasing my work in marine science, ecological data management, and coastal conservation.\n\n\n\nHome: Introduction and overview of my professional background\nProjects: Detailed descriptions of my recent and ongoing projects in marine conservation and data science\nCV: Complete curriculum vitae with education, experience, and skills\nAbout: Information about this site and how to connect with me\n\n\n\n\nI am a marine scientist with a strong passion for understanding and protecting coastal ecosystems. With expertise in ecological data management, statistical analysis, and conservation planning, I work to bridge the gap between scientific research and practical conservation implementation.\nMy work at Mwambao Coastal Community Network focuses on: - Biodiversity monitoring and assessment - Data-driven conservation planning - Community engagement and capacity building - Ecosystem resilience and climate adaptation\n\n\n\nI am proficient in R programming, GIS analysis, and data visualization. I use these tools to transform raw ecological data into actionable insights that inform conservation decisions and support sustainable management of coastal resources.\n\n\n\nI’m always interested in collaborating on conservation projects, discussing marine science, or exploring opportunities to apply data science in environmental contexts. Feel free to reach out through:\n\nEmail: lauriankaijage@gmail.com\nGitHub: Laurian Kaijage\nLinkedIn: Laurian Kaijage\n\n\n\n\n\nThis portfolio website was built using Quarto, a modern publishing system for combining code, data, and narrative content. The source code is available on GitHub."
+  },
+  {
+    "objectID": "about.html#about-laurian-kaijage",
+    "href": "about.html#about-laurian-kaijage",
+    "title": "About This Site",
+    "section": "",
+    "text": "This website serves as a portfolio and professional CV showcasing my work in marine science, ecological data management, and coastal conservation.\n\n\n\nHome: Introduction and overview of my professional background\nProjects: Detailed descriptions of my recent and ongoing projects in marine conservation and data science\nCV: Complete curriculum vitae with education, experience, and skills\nAbout: Information about this site and how to connect with me\n\n\n\n\nI am a marine scientist with a strong passion for understanding and protecting coastal ecosystems. With expertise in ecological data management, statistical analysis, and conservation planning, I work to bridge the gap between scientific research and practical conservation implementation.\nMy work at Mwambao Coastal Community Network focuses on: - Biodiversity monitoring and assessment - Data-driven conservation planning - Community engagement and capacity building - Ecosystem resilience and climate adaptation\n\n\n\nI am proficient in R programming, GIS analysis, and data visualization. I use these tools to transform raw ecological data into actionable insights that inform conservation decisions and support sustainable management of coastal resources.\n\n\n\nI’m always interested in collaborating on conservation projects, discussing marine science, or exploring opportunities to apply data science in environmental contexts. Feel free to reach out through:\n\nEmail: lauriankaijage@gmail.com\nGitHub: Laurian Kaijage\nLinkedIn: Laurian Kaijage\n\n\n\n\n\nThis portfolio website was built using Quarto, a modern publishing system for combining code, data, and narrative content. The source code is available on GitHub."
+  }
+]
