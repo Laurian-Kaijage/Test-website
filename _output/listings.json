@@ -1,0 +1,34 @@
+[
+  {
+    "listing": "/index.html",
+    "items": [
+      "/cv.html",
+      "/about.html",
+      "/projects.html"
+    ]
+  },
+  {
+    "listing": "/about.html",
+    "items": [
+      "/cv.html",
+      "/index.html",
+      "/projects.html"
+    ]
+  },
+  {
+    "listing": "/projects.html",
+    "items": [
+      "/cv.html",
+      "/index.html",
+      "/about.html"
+    ]
+  },
+  {
+    "listing": "/cv.html",
+    "items": [
+      "/index.html",
+      "/about.html",
+      "/projects.html"
+    ]
+  }
+]
