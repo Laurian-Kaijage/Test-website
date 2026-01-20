@@ -35,15 +35,5 @@ format:
     code-overflow: wrap
 
 include-in-header:
-  - text: |
-      <script type="application/ld+json">
-      {
-        "@context": "https://schema.org",
-        "@type": "Person",
-        "name": "Laurian Kaijage",
-        "jobTitle": "Marine Scientist and Data Analyst",
-        "email": "lauriankaijage@gmail.com",
-        "url": "https://kaijage-laurian-data.netlify.app/"
-      }
-      </script>
+  - text: '<meta name="google-site-verification" content="rAksDH-3nQI9AkpomZ0TorPzHNNAtou6UgFlTgN1nlo" />'
 
