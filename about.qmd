@@ -1,8 +1,7 @@
 ---
-title: "About This Site"
+title: "Laurian Kaijage"
 ---
 
-## About Laurian Kaijage
 
 This website serves as a portfolio and professional CV showcasing my work in marine science, ecological data management, and coastal conservation. 
 

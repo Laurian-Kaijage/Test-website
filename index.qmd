@@ -2,6 +2,7 @@
 title: "Laurian Kaijage"
 subtitle: "Marine Scientist | Data Analyst"
 image: image/profile.jpg
+description: "Marine Scientist specializing in ecological data management and coastal conservation at Mwambao Coastal Community Network"
 about:
   template: jolla
   links:
@@ -13,7 +14,7 @@ about:
       href: https://www.linkedin.com/in/kaijage-laurian-msc-73105617b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
     - icon: envelope
       text: Email
-      href: lauriankaijage@gmail.com
+      href: mailto:lauriankaijage@gmail.com
 ---
 
 ## Welcome
