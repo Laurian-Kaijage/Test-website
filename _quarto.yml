@@ -7,7 +7,7 @@ website:
   description: "Marine Scientist | Ecological Data Manager | Portfolio & CV"
   site-url: "https://kaijage-laurian-data.netlify.app/"  # your actual domain
   navbar:
-    left:
+    right:
       - href: index.qmd
         text: Home
       - href: projects.qmd
@@ -16,15 +16,11 @@ website:
         text: CV
       - href: about.qmd
         text: About
-    right:
       - icon: github
         href: https://github.com
       - icon: linkedin
         href: https://linkedin.com
 
-listing:
-  sort-ui: false
-  filter-ui: false
 
 format:
   html:
