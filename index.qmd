@@ -1,6 +1,6 @@
 ---
 title: "Laurian Kaijage"
-subtitle: "Marine Scientist | Data Analyst"
+subtitle: "Marine Scientist | Ecological Data Manager | Conservation Practitioner"
 image: image/profile.jpg
 description: "Marine Scientist specializing in ecological data management and coastal conservation at Mwambao Coastal Community Network"
 about:
@@ -19,13 +19,100 @@ about:
 
 ## Welcome
 
-Hello! I'm Laurian Kaijage, a marine scientist with expertise in ecological data management and coastal conservation. Currently, I work at **Mwambao Coastal Community Network** as the Ecological Data Manager, where I focus on biodiversity monitoring, data analysis, and supporting conservation initiatives.
+I'm **Laurian Kaijage** — a marine scientist, field researcher, and ecological data manager working on the frontlines of coastal conservation in Tanzania. At **Mwambao Coastal Community Network**, I translate raw field data into conservation decisions that protect communities and ecosystems alike.
 
-## My Focus Areas
+---
 
-- **Marine Ecology**: Understanding coastal ecosystems and biodiversity
-- **Data Management**: Collecting, analyzing, and visualizing ecological data
-- **Conservation**: Supporting community-based conservation efforts
-- **Research**: Contributing to marine science through rigorous fieldwork and analysis for data analysis
+```{=html}
+<!-- Impact Counter Strip -->
+<section class="impact-strip">
+  <div class="impact-counter" data-target="7">
+    <span class="counter-number" id="counter-sites">0</span>
+    <span class="counter-label">Coastal Sites Monitored</span>
+  </div>
+  <div class="impact-counter" data-target="12">
+    <span class="counter-number" id="counter-communities">0</span>
+    <span class="counter-label">Communities Engaged</span>
+  </div>
+  <div class="impact-counter" data-target="300">
+    <span class="counter-number" id="counter-species">0</span>
+    <span class="counter-label">Species Recorded</span>
+  </div>
+  <div class="impact-counter" data-target="5">
+    <span class="counter-number" id="counter-docs">0</span>
+    <span class="counter-label">Documentary Features</span>
+  </div>
+</section>
 
+<script>
+function animateCounters() {
+  const counters = document.querySelectorAll('.impact-counter');
+  counters.forEach(counter => {
+    const target = parseInt(counter.getAttribute('data-target'));
+    const numberEl = counter.querySelector('.counter-number');
+    const duration = 2000;
+    const step = Math.ceil(target / (duration / 30));
+    let current = 0;
+    const timer = setInterval(() => {
+      current += step;
+      if (current >= target) {
+        current = target;
+        clearInterval(timer);
+      }
+      numberEl.textContent = current.toLocaleString();
+    }, 30);
+  });
+}
 
+const observer = new IntersectionObserver((entries) => {
+  entries.forEach(entry => {
+    if (entry.isIntersecting) {
+      animateCounters();
+      observer.disconnect();
+    }
+  });
+}, { threshold: 0.3 });
+
+document.addEventListener('DOMContentLoaded', () => {
+  const strip = document.querySelector('.impact-strip');
+  if (strip) observer.observe(strip);
+});
+</script>
+```
+
+## What I Do
+
+::: {.focus-grid}
+
+::: {.focus-card}
+### 🌊 Field Research
+Leading biodiversity surveys and ecological assessments across Tanzania's coastline — from seagrass beds to coral reefs and mangrove forests.
+:::
+
+::: {.focus-card}
+### 📊 Data & Analysis
+Turning field observations into actionable insights using R, Python, GIS, and statistical modelling to guide conservation decisions.
+:::
+
+::: {.focus-card}
+### 🤝 Community Work
+Building local capacity for conservation through training, engagement, and co-designing monitoring programs with coastal fishing communities.
+:::
+
+::: {.focus-card}
+### 🎬 Media & Advocacy
+Participating in documentary productions and science communication to amplify conservation stories from the Swahili Coast.
+:::
+
+:::
+
+---
+
+```{=html}
+<div class="cta-bar">
+  <a href="impact.html" class="cta-btn primary">See My Impact</a>
+  <a href="media.html" class="cta-btn secondary">Watch Documentaries</a>
+  <a href="skills.html" class="cta-btn secondary">My Skills & Experience</a>
+  <a href="projects.html" class="cta-btn secondary">View Projects</a>
+</div>
+```

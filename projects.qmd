@@ -1,60 +1,174 @@
 ---
 title: "Projects"
+description: "Research and conservation projects in marine science, ecological data, and community conservation"
 ---
 
-## Featured Projects
+```{=html}
+<div class="page-hero">
+  <p class="hero-tagline">Science in action — research, monitoring, and conservation at scale</p>
+</div>
+```
 
-Here are some of my recent and ongoing projects in marine science, ecological data management, and conservation.
+## Featured Projects
 
 ::: {.project-grid}
 
 ::: {.card}
-### Coastal Biodiversity Monitoring
+### Coastal Biodiversity Monitoring Programme
+**Status:** [Ongoing]{.badge-green}
+**Organisation:** Mwambao Coastal Community Network
 
-**Status**: Ongoing  
-**Organization**: Mwambao Coastal Community Network
+A long-running ecological monitoring programme tracking reef fish, coral, seagrass, and mangrove health across 7+ sites along Tanzania's coast. Monitoring data drives annual conservation reporting and informs government marine spatial planning.
 
-Developing and implementing biodiversity monitoring protocols for coastal ecosystems. Using R and spatial analysis tools to track species populations and ecosystem health indicators.
+**What I do:**
+- Design and lead biodiversity survey protocols
+- Coordinate and train field teams and community monitors
+- Analyse data using R — trend analysis, species richness, benthic cover
+- Produce annual reports for government and NGO stakeholders
 
-**Skills**: R programming, GIS, Data visualization, Ecological surveys
+**Outcomes:**
+- Multi-year baseline datasets for 7+ coastal sites
+- Community-owned monitoring protocols now in use
+- Data contributed to national MPA planning
+
+**Tools:** R · QGIS · KoboToolbox · Excel · ggplot2
+
+[Biodiversity]{.badge} [Field Research]{.badge} [Community Monitoring]{.badge}
+:::
+
+::: {.card}
+### Coastal GIS & Habitat Mapping
+**Status:** [Ongoing]{.badge-green}
+**Organisation:** Mwambao Coastal Community Network
+
+Spatial mapping of critical coastal habitats — seagrass beds, mangrove forests, and coral reefs — using remote sensing data and GPS-verified field surveys. Outputs are used in MPA boundary proposals and management plans.
+
+**What I do:**
+- Process and classify satellite imagery for habitat extent mapping
+- Ground-truth habitat boundaries with field surveys
+- Create publication-quality maps and spatial reports
+
+**Outcomes:**
+- Detailed habitat extent maps for key conservation sites
+- Spatial data integrated into government planning documents
+- Improved understanding of habitat connectivity
+
+**Tools:** QGIS · ArcGIS · R (sf, terra) · Google Earth Engine
+
+[GIS]{.badge} [Habitat Mapping]{.badge} [Remote Sensing]{.badge}
 :::
 
 ::: {.card}
 ### Marine Species Database
+**Status:** [Active Development]{.badge-blue}
+**Organisation:** Mwambao Coastal Community Network
 
-**Status**: Development
+Building and managing a structured database to compile species observations, monitoring records, and occurrence data from all field programmes. Designed to support long-term trend analysis and regional data sharing.
 
-Creating a comprehensive database for tracking marine species observations and occurrences along the coast. Integrated with field data collection tools and automated reporting systems.
+**What I do:**
+- Design database schema for species and site data
+- Build data pipelines to ingest KoboToolbox field data
+- Automate quality checks and reporting with R scripts
 
-**Skills**: Database design, R, Data management, Statistical analysis
+**Outcomes:**
+- Centralised species records from 5+ years of monitoring
+- Standardised data entry reducing field data errors
+- Automated monthly summary reports generated
+
+**Tools:** SQL · R · KoboToolbox · PostgreSQL
+
+[Database Design]{.badge} [Data Management]{.badge} [Automation]{.badge}
 :::
 
 ::: {.card}
-### Coastal Conservation Planning
+### Community-Based Conservation Training
+**Status:** [Ongoing]{.badge-green}
+**Organisation:** Mwambao Coastal Community Network + Local Partners
 
-**Status**: Ongoing
+Designing and facilitating training programmes for fishing communities, enabling them to conduct their own biodiversity monitoring. Builds local conservation ownership and generates community-level data.
 
-Supporting community-based conservation initiatives through data-driven planning and impact assessment. Analyzing ecosystem services and stakeholder engagement strategies.
+**What I do:**
+- Design training curricula for non-scientific audiences
+- Facilitate hands-on reef survey training sessions
+- Mentor community monitors over extended periods
 
-**Skills**: Conservation planning, Data analysis, Community engagement, Impact assessment
+**Outcomes:**
+- 12+ trained community data collectors active across coastal sites
+- Community-managed monitoring sustained beyond project cycles
+- Local conservation knowledge documented and integrated
+
+**Tools:** KoboToolbox · Training materials · Field guides
+
+[Community Engagement]{.badge} [Training]{.badge} [Citizen Science]{.badge}
 :::
 
 ::: {.card}
 ### Climate Resilience Assessment
+**Status:** [Planning Phase]{.badge-orange}
+**Organisation:** TBD / In Development
 
-**Status**: Planning phase
+Evaluating how climate change — ocean warming, acidification, sea level rise — is affecting coastal ecosystem resilience at key monitoring sites. Will integrate historical monitoring data with climate projections.
 
-Evaluating coastal ecosystem resilience to climate change impacts. Integrating historical climate data, species distribution models, and community vulnerability assessments.
+**What I do:**
+- Review existing monitoring data for climate-related signals
+- Develop climate vulnerability scoring for habitats and communities
+- Model future species and habitat distribution scenarios
 
-**Skills**: Climate data analysis, Species distribution modeling, Risk assessment
+**Planned Outcomes:**
+- Site-level climate vulnerability assessments
+- Adaptive management recommendations
+- Input into regional climate resilience strategies
+
+**Tools:** R · Species distribution modelling · Climate datasets
+
+[Climate]{.badge} [Resilience]{.badge} [Modelling]{.badge}
+:::
+
+::: {.card}
+### Ecological Data Pipelines & Reporting Automation
+**Status:** [Active]{.badge-green}
+**Organisation:** Mwambao Coastal Community Network
+
+Building automated data workflows in R that pull from field data platforms, clean and validate records, run statistical summaries, and generate formatted reports — reducing manual reporting time significantly.
+
+**What I do:**
+- Build end-to-end data pipelines in R
+- Write reproducible analysis scripts (R Markdown / Quarto)
+- Develop interactive dashboards with Shiny
+
+**Outcomes:**
+- Reporting time reduced from weeks to hours
+- Reproducible, version-controlled analysis workflows
+- Interactive dashboards for internal team monitoring
+
+**Tools:** R · Shiny · Quarto · R Markdown · KoboToolbox API
+
+[R Programming]{.badge} [Automation]{.badge} [Dashboards]{.badge}
 :::
 
 :::
 
-## Skills & Technologies
+---
 
-- **Programming**: R, Python, SQL
-- **Tools**: QGIS, ArcGIS, RStudio
-- **Data Analysis**: Statistical modeling, Spatial analysis, Time series analysis
-- **Visualization**: ggplot2, Plotly, Shiny dashboards
-- **Other**: Report writing, Fieldwork coordination, Database management
+## Skills Used Across Projects
+
+::: {.skills-summary}
+| Domain | Tools & Methods |
+|---|---|
+| **Field Ecology** | Reef surveys, benthic transects, seagrass & mangrove assessment |
+| **Data Analysis** | R, Python, statistical modelling, time series |
+| **Spatial Analysis** | QGIS, ArcGIS, R spatial packages, remote sensing |
+| **Visualisation** | ggplot2, Plotly, Shiny, Quarto |
+| **Data Management** | SQL, PostgreSQL, KoboToolbox, Excel |
+| **Communication** | Reports, workshops, documentary consultation |
+:::
+
+---
+
+```{=html}
+<div class="cta-bar">
+  <a href="impact.html" class="cta-btn primary">See Impact & Outcomes</a>
+  <a href="skills.html" class="cta-btn secondary">View Full Skills</a>
+  <a href="mailto:lauriankaijage@gmail.com" class="cta-btn secondary">Collaborate</a>
+</div>
+```
