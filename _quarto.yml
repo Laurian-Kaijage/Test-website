@@ -4,23 +4,42 @@ project:
 
 website:
   title: "Laurian Kaijage"
-  description: "Marine Scientist | Ecological Data Manager | Portfolio & CV"
-  site-url: "https://kaijage-laurian-data.netlify.app/"  # your actual domain
+  description: "Marine Scientist | Ecological Data Manager | Conservation Practitioner"
+  site-url: "https://kaijage-laurian-data.netlify.app/"
   navbar:
-    right:
+    left:
       - href: index.qmd
         text: Home
+      - href: impact.qmd
+        text: Impact
       - href: projects.qmd
         text: Projects
+      - href: media.qmd
+        text: Documentaries
+      - href: skills.qmd
+        text: Skills & Experience
       - href: cv.qmd
         text: CV
       - href: about.qmd
         text: About
+    right:
       - icon: github
         href: https://github.com
+        aria-label: GitHub
       - icon: linkedin
-        href: https://linkedin.com
+        href: https://www.linkedin.com/in/kaijage-laurian-msc-73105617b
+        aria-label: LinkedIn
+      - icon: envelope
+        href: mailto:lauriankaijage@gmail.com
+        aria-label: Email
 
+  page-footer:
+    left: "© 2025 Laurian Kaijage — Marine Scientist & Ecological Data Manager"
+    right:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/kaijage-laurian-msc-73105617b
+      - icon: envelope
+        href: mailto:lauriankaijage@gmail.com
 
 format:
   html:
@@ -29,7 +48,7 @@ format:
     css: styles.css
     toc: false
     code-overflow: wrap
+    smooth-scroll: true
 
 include-in-header:
   - text: '<meta name="google-site-verification" content="rAksDH-3nQI9AkpomZ0TorPzHNNAtou6UgFlTgN1nlo" />'
-
