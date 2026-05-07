@@ -68,6 +68,7 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<style>html{ scroll-behavior: smooth; }</style>
 <meta name="google-site-verification" content="rAksDH-3nQI9AkpomZ0TorPzHNNAtou6UgFlTgN1nlo">
 
 
@@ -90,14 +91,26 @@ ul.task-list li input[type="checkbox"] {
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
-            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
     <a class="nav-link active" href="./index.html" aria-current="page"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
+    <a class="nav-link" href="./impact.html"> 
+<span class="menu-text">Impact</span></a>
+  </li>  
+  <li class="nav-item">
     <a class="nav-link" href="./projects.html"> 
 <span class="menu-text">Projects</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./media.html"> 
+<span class="menu-text">Documentaries</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./skills.html"> 
+<span class="menu-text">Skills &amp; Experience</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./cv.html"> 
@@ -107,13 +120,20 @@ ul.task-list li input[type="checkbox"] {
     <a class="nav-link" href="./about.html"> 
 <span class="menu-text">About</span></a>
   </li>  
+</ul>
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item compact">
-    <a class="nav-link" href="https://github.com"> <i class="bi bi-github" role="img">
+    <a class="nav-link" href="https://github.com"> <i class="bi bi-github" role="img" aria-label="GitHub">
 </i> 
 <span class="menu-text"></span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="https://linkedin.com"> <i class="bi bi-linkedin" role="img">
+    <a class="nav-link" href="https://www.linkedin.com/in/kaijage-laurian-msc-73105617b"> <i class="bi bi-linkedin" role="img" aria-label="LinkedIn">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="mailto:lauriankaijage@gmail.com"> <i class="bi bi-envelope" role="img" aria-label="Email">
 </i> 
 <span class="menu-text"></span></a>
   </li>  
@@ -136,7 +156,7 @@ ul.task-list li input[type="checkbox"] {
  <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
 <h1 class="title">Laurian Kaijage</h1>
-<p class="subtitle lead">Marine Scientist | Data Analyst</p>
+<p class="subtitle lead">Marine Scientist | Ecological Data Manager | Conservation Practitioner</p>
 </div>
 <div>
   <div class="description">
@@ -148,16 +168,87 @@ ul.task-list li input[type="checkbox"] {
 </header><main class="content" id="quarto-document-content">
 <section id="welcome" class="level2">
 <h2 data-anchor-id="welcome">Welcome</h2>
-<p>Hello! I’m Laurian Kaijage, a marine scientist with expertise in ecological data management and coastal conservation. Currently, I work at <strong>Mwambao Coastal Community Network</strong> as the Ecological Data Manager, where I focus on biodiversity monitoring, data analysis, and supporting conservation initiatives.</p>
+<p>I’m <strong>Laurian Kaijage</strong> — a marine scientist, field researcher, and ecological data manager working on the frontlines of coastal conservation in Tanzania. At <strong>Mwambao Coastal Community Network</strong>, I translate raw field data into conservation decisions that protect communities and ecosystems alike.</p>
+<hr>
+<!-- Impact Counter Strip -->
+<section class="impact-strip">
+  <div class="impact-counter" data-target="7">
+    <span class="counter-number" id="counter-sites">0</span>
+    <span class="counter-label">Coastal Sites Monitored</span>
+  </div>
+  <div class="impact-counter" data-target="12">
+    <span class="counter-number" id="counter-communities">0</span>
+    <span class="counter-label">Communities Engaged</span>
+  </div>
+  <div class="impact-counter" data-target="300">
+    <span class="counter-number" id="counter-species">0</span>
+    <span class="counter-label">Species Recorded</span>
+  </div>
+  <div class="impact-counter" data-target="5">
+    <span class="counter-number" id="counter-docs">0</span>
+    <span class="counter-label">Documentary Features</span>
+  </div>
 </section>
-<section id="my-focus-areas" class="level2">
-<h2 data-anchor-id="my-focus-areas">My Focus Areas</h2>
-<ul>
-<li><strong>Marine Ecology</strong>: Understanding coastal ecosystems and biodiversity</li>
-<li><strong>Data Management</strong>: Collecting, analyzing, and visualizing ecological data</li>
-<li><strong>Conservation</strong>: Supporting community-based conservation efforts</li>
-<li><strong>Research</strong>: Contributing to marine science through rigorous fieldwork and analysis for data analysis</li>
-</ul>
+<script>
+function animateCounters() {
+  const counters = document.querySelectorAll('.impact-counter');
+  counters.forEach(counter => {
+    const target = parseInt(counter.getAttribute('data-target'));
+    const numberEl = counter.querySelector('.counter-number');
+    const duration = 2000;
+    const step = Math.ceil(target / (duration / 30));
+    let current = 0;
+    const timer = setInterval(() => {
+      current += step;
+      if (current >= target) {
+        current = target;
+        clearInterval(timer);
+      }
+      numberEl.textContent = current.toLocaleString();
+    }, 30);
+  });
+}
+const observer = new IntersectionObserver((entries) => {
+  entries.forEach(entry => {
+    if (entry.isIntersecting) {
+      animateCounters();
+      observer.disconnect();
+    }
+  });
+}, { threshold: 0.3 });
+document.addEventListener('DOMContentLoaded', () => {
+  const strip = document.querySelector('.impact-strip');
+  if (strip) observer.observe(strip);
+});
+</script>
+</section>
+<section id="what-i-do" class="level2">
+<h2 data-anchor-id="what-i-do">What I Do</h2>
+<div class="focus-grid">
+<section id="field-research" class="level3 focus-card">
+<h3 data-anchor-id="field-research">🌊 Field Research</h3>
+<p>Leading biodiversity surveys and ecological assessments across Tanzania’s coastline — from seagrass beds to coral reefs and mangrove forests.</p>
+</section>
+<section id="data-analysis" class="level3 focus-card">
+<h3 data-anchor-id="data-analysis">📊 Data &amp; Analysis</h3>
+<p>Turning field observations into actionable insights using R, Python, GIS, and statistical modelling to guide conservation decisions.</p>
+</section>
+<section id="community-work" class="level3 focus-card">
+<h3 data-anchor-id="community-work">🤝 Community Work</h3>
+<p>Building local capacity for conservation through training, engagement, and co-designing monitoring programs with coastal fishing communities.</p>
+</section>
+<section id="media-advocacy" class="level3 focus-card">
+<h3 data-anchor-id="media-advocacy">🎬 Media &amp; Advocacy</h3>
+<p>Participating in documentary productions and science communication to amplify conservation stories from the Swahili Coast.</p>
+</section>
+</div>
+<hr>
+<div class="cta-bar">
+  <a href="impact.html" class="cta-btn primary">See My Impact</a>
+  <a href="media.html" class="cta-btn secondary">Watch Documentaries</a>
+  <a href="skills.html" class="cta-btn secondary">My Skills &amp; Experience</a>
+  <a href="projects.html" class="cta-btn secondary">View Projects</a>
+</div>
 
 
 </section>
@@ -573,8 +664,35 @@ ul.task-list li input[type="checkbox"] {
   });
   </script>
 </div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+<p>© 2025 Laurian Kaijage — Marine Scientist &amp; Ecological Data Manager</p>
+</div>   
+    <div class="nav-footer-center">
+      &nbsp;
+    </div>
+    <div class="nav-footer-right">
+      <ul class="footer-items list-unstyled">
+    <li class="nav-item compact">
+    <a class="nav-link" href="https://www.linkedin.com/in/kaijage-laurian-msc-73105617b">
+      <i class="bi bi-linkedin" role="img">
+</i> 
+    </a>
+  </li>  
+    <li class="nav-item compact">
+    <a class="nav-link" href="mailto:lauriankaijage@gmail.com">
+      <i class="bi bi-envelope" role="img">
+</i> 
+    </a>
+  </li>  
+</ul>
+    </div>
+  </div>
+</footer>
 
 
 
 
+<script src="site_libs/quarto-html/zenscroll-min.js"></script>
 </body></html>
