@@ -1,6 +1,6 @@
 ---
 title: "Impact & Ground Work"
-description: "Conservation outcomes, community engagement, and field work from Tanzania's coastline"
+description: "Conservation outcomes, community training, and ecological restoration across Zanzibar and Northern Tanzania"
 ---
 
 ```{=html}
@@ -11,7 +11,7 @@ description: "Conservation outcomes, community engagement, and field work from T
 
 ## Work on the Ground
 
-My conservation work spans Tanzania's coastline — from the coral reefs of Pemba and Zanzibar to the mangrove estuaries of the mainland. Every data point I collect represents a reef, a species, or a community that depends on a healthy ocean.
+My conservation work spans 50 communities across Zanzibar and the Tanga region of Northern Tanzania. Every protocol I design, every dataset I analyse, and every person I train is part of a connected effort to put ecological evidence at the centre of coastal management decisions.
 
 ---
 
@@ -20,43 +20,75 @@ My conservation work spans Tanzania's coastline — from the coral reefs of Pemb
 ::: {.impact-grid}
 
 ::: {.impact-area-card}
-### 🐠 Biodiversity Monitoring
-Systematic ecological surveys tracking reef fish, invertebrates, corals, seagrass, and mangroves across multiple sites. Data feeds directly into conservation plans used by local government and NGO partners.
+### 👥 Community Training — Fisheries Data Collection
+
+Trained **200 community members** across **50 communities** (Zanzibar and Tanga region) on fisheries data collection protocols covering **reef fish, prawns, and octopus**. Training equipped local fishers with the skills to systematically record catch and effort data, turning everyday fishing activity into a conservation monitoring tool.
 
 **Outcomes:**
-- Long-term baseline datasets established at 7+ coastal sites
-- Species richness trends documented across 3 ecosystem types
-- Monitoring protocols adopted by community rangers
+- 200 trained community monitors actively collecting fisheries data
+- 50 communities covered across Zanzibar and Northern Tanzania
+- Community-generated data fed directly into **local management plans and adaptive management decisions**
+- Increased local ownership of fisheries resource management
 :::
 
 ::: {.impact-area-card}
-### 🌿 Habitat Conservation
-Supporting designation and management of locally managed marine areas (LMMAs) by equipping communities with data on habitat extent, health, and ecosystem services.
+### 🤿 In-Water Monitoring — Coral Reef Visual Census
+
+Trained **300+ in-water monitors** in underwater visual census (UVC) techniques for coral reef monitoring, including data collection and analysis. A landmark achievement within this programme: **70 of these monitors are women** — breaking a significant cultural barrier in coastal Tanzania, where women's participation in snorkelling and underwater activities is highly unconventional.
 
 **Outcomes:**
-- Contributed data to support marine protected area (MPA) boundary proposals
-- Seagrass and mangrove extent mapped using GIS tools
-- Coral bleaching events documented and reported for early response
+- 300+ trained underwater visual census monitors
+- **70 women trained** as in-water monitors — unprecedented in this region
+- Training extended beyond data collection to include **analysis of survey data**
+- Results used to guide and support **coral reef restoration efforts**
 :::
 
 ::: {.impact-area-card}
-### 👥 Community Engagement
-Working directly with fishing communities to co-design monitoring programs, build data literacy, and connect local ecological knowledge with scientific methods.
+### 🪸 Coral Reef Restoration Support
+
+Provided data analysis and monitoring support for the restoration of **347 hectares of coral reef replenishment zones**, including the deployment of **1,300 artificial reef structures**. This work involved designing data collection protocols, coordinating field surveys, and analysing reef health data to track restoration progress.
 
 **Outcomes:**
-- Trained 12+ community data collectors across coastal villages
-- Co-facilitated multi-stakeholder conservation planning workshops
-- Built trust and long-term partnerships with fishing community leaders
+- 347 ha of coral reef replenishment zone established and monitored
+- 1,300 artificial reef structures deployed and tracked
+- Reef health data used to measure restoration effectiveness
+- Monitoring protocols adapted for long-term replenishment zone management
 :::
 
 ::: {.impact-area-card}
-### 📈 Data for Decision-Making
-Transforming raw field data into reports, dashboards, and visualizations that influence conservation policy and attract research funding.
+### 🌿 Mangrove Restoration & Seagrass Monitoring
+
+Supported the restoration of approximately **60 hectares of mangrove habitat** through data collection protocol design and analysis. Also led seagrass monitoring surveys contributing to understanding of coastal habitat connectivity and ecosystem health.
 
 **Outcomes:**
-- Annual biodiversity reports produced for government and NGO stakeholders
-- Data pipelines built in R for automated reporting
-- Contributed datasets to regional biodiversity databases
+- 60 ha of mangrove area supported through data-driven restoration
+- Seagrass monitoring integrated into multi-habitat coastal assessment
+- Restoration progress tracked with standardised protocols
+- Data informing coastal ecosystem management decisions
+:::
+
+::: {.impact-area-card}
+### 📋 Protocols & Survey Tools
+
+Developed **Mwambao's second fish catch monitoring data protocol** — a landmark institutional tool that standardises fisheries data collection across the organisation's entire network. Created **10+ ecological survey forms** covering all major survey types used by the ecological department.
+
+**Outcomes:**
+- New fish catch monitoring protocol in active use across the network
+- 10+ survey forms designed for reef fish, coral, seagrass, mangrove, and octopus monitoring
+- Standardised data collection reducing errors and improving comparability
+- Institutional data quality significantly improved
+:::
+
+::: {.impact-area-card}
+### 📊 Ecological Data Analysis
+
+Led **all ecological data analysis** for Mwambao's ecological department — spanning fisheries, mangrove restoration, seagrass monitoring, and coral reef monitoring. Transforming raw field data from across the network into findings that drive conservation planning and adaptive management.
+
+**Outcomes:**
+- End-to-end analysis across four ecosystem monitoring programmes
+- Annual reports and internal dashboards produced for each programme
+- Data-driven adaptive management recommendations delivered to teams
+- Analytical pipelines built in R for reproducible, efficient reporting
 :::
 
 :::
@@ -72,47 +104,55 @@ Transforming raw field data into reports, dashboards, and visualizations that in
     <div class="timeline-content">
       <span class="timeline-year">2019</span>
       <h3>Joined Mwambao Coastal Community Network</h3>
-      <p>Began ecological monitoring fieldwork along Tanzania's northern coast, establishing baseline biodiversity data for key coastal sites.</p>
+      <p>Began ecological monitoring fieldwork along Tanzania's northern coast. Established foundational data systems and began engaging coastal communities in conservation activities.</p>
     </div>
   </div>
 
   <div class="timeline-item right">
     <div class="timeline-content">
       <span class="timeline-year">2020</span>
-      <h3>Community Training Programme Launched</h3>
-      <p>Led the design and rollout of a community-based monitoring programme, training local fishers as citizen scientists to collect reef health data.</p>
+      <h3>Community Fisheries Training Launched</h3>
+      <p>Designed and rolled out fisheries data collection training across coastal communities in Zanzibar and the Tanga region — covering reef fish, prawns, and octopus monitoring protocols.</p>
     </div>
   </div>
 
   <div class="timeline-item left">
     <div class="timeline-content">
       <span class="timeline-year">2021</span>
-      <h3>First Documentary Participation</h3>
-      <p>Featured in a documentary production covering marine conservation efforts on the Swahili Coast — bringing scientific field work to a wider audience.</p>
+      <h3>In-Water Monitor Training Programme</h3>
+      <p>Launched a major training programme for 300+ in-water monitors on underwater visual census techniques. Trained 70 women as underwater monitors — a historic first in this region's conservation work.</p>
     </div>
   </div>
 
   <div class="timeline-item right">
     <div class="timeline-content">
       <span class="timeline-year">2022</span>
-      <h3>Regional Data Infrastructure Built</h3>
-      <p>Developed R-based data pipelines and dashboards integrating monitoring data from multiple sites for annual reporting to government and NGO partners.</p>
+      <h3>Fish Catch Monitoring Protocol & Survey Forms</h3>
+      <p>Developed Mwambao's second institutional fish catch monitoring protocol and created 10+ standardised ecological survey forms across all ecosystem types monitored by the ecological department.</p>
     </div>
   </div>
 
   <div class="timeline-item left">
     <div class="timeline-content">
       <span class="timeline-year">2023</span>
-      <h3>MPA Support & GIS Mapping</h3>
-      <p>Provided spatial analysis and ecological data to support marine protected area planning — including seagrass and mangrove extent mapping using QGIS and R.</p>
+      <h3>Coral Reef Restoration — 347 Ha & 1,300 Artificial Reefs</h3>
+      <p>Provided data analysis and monitoring support for the establishment of 347 hectares of coral reef replenishment zones, including the deployment and tracking of 1,300 artificial reef structures.</p>
     </div>
   </div>
 
   <div class="timeline-item right">
     <div class="timeline-content">
-      <span class="timeline-year">2024 – Present</span>
-      <h3>Ecological Data Manager</h3>
-      <p>Leading data management strategy at Mwambao, overseeing biodiversity monitoring across 7+ sites, managing databases, and mentoring field teams.</p>
+      <span class="timeline-year">2024</span>
+      <h3>Mangrove Restoration — 60 Ha Supported</h3>
+      <p>Supported the restoration of 60 hectares of mangrove habitat through data collection protocol design, field surveys, and analysis — alongside continued seagrass and multi-habitat monitoring.</p>
+    </div>
+  </div>
+
+  <div class="timeline-item left">
+    <div class="timeline-content">
+      <span class="timeline-year">2025 – Present</span>
+      <h3>Leading All Ecological Data Analysis</h3>
+      <p>Responsible for all ecological data analysis across Mwambao's department — fisheries, coral reef, mangrove, and seagrass programmes — driving adaptive management and long-term conservation planning.</p>
     </div>
   </div>
 
@@ -121,41 +161,43 @@ Transforming raw field data into reports, dashboards, and visualizations that in
 
 ---
 
-## Field Work Gallery
+## By the Numbers
 
 ```{=html}
-<p class="gallery-note">📸 Photos from the field — surveys, community workshops, and coastal monitoring sites</p>
-
-<div class="gallery-placeholder">
-  <div class="gallery-slot">
-    <div class="gallery-icon">🤿</div>
-    <p>Reef Survey, Pemba</p>
+<div class="stats-grid">
+  <div class="stat-box">
+    <div class="stat-number">200</div>
+    <div class="stat-desc">Community members trained in fisheries data collection</div>
   </div>
-  <div class="gallery-slot">
-    <div class="gallery-icon">🌿</div>
-    <p>Mangrove Transect</p>
+  <div class="stat-box">
+    <div class="stat-number">50</div>
+    <div class="stat-desc">Communities reached across Zanzibar & Tanga region</div>
   </div>
-  <div class="gallery-slot">
-    <div class="gallery-icon">👥</div>
-    <p>Community Workshop</p>
+  <div class="stat-box">
+    <div class="stat-number">300+</div>
+    <div class="stat-desc">In-water monitors trained in underwater visual census</div>
   </div>
-  <div class="gallery-slot">
-    <div class="gallery-icon">📊</div>
-    <p>Data Collection Training</p>
+  <div class="stat-box">
+    <div class="stat-number">70</div>
+    <div class="stat-desc">Women trained as in-water monitors — breaking cultural barriers</div>
   </div>
-  <div class="gallery-slot">
-    <div class="gallery-icon">🐠</div>
-    <p>Fish Count Survey</p>
+  <div class="stat-box">
+    <div class="stat-number">347 ha</div>
+    <div class="stat-desc">Coral reef replenishment zone established & monitored</div>
   </div>
-  <div class="gallery-slot">
-    <div class="gallery-icon">🗺️</div>
-    <p>GIS Mapping Session</p>
+  <div class="stat-box">
+    <div class="stat-number">1,300</div>
+    <div class="stat-desc">Artificial reef structures deployed and tracked</div>
+  </div>
+  <div class="stat-box">
+    <div class="stat-number">60 ha</div>
+    <div class="stat-desc">Mangrove habitat supported through restoration data work</div>
+  </div>
+  <div class="stat-box">
+    <div class="stat-number">10+</div>
+    <div class="stat-desc">Ecological survey forms designed across all ecosystem types</div>
   </div>
 </div>
-
-<p class="gallery-note" style="margin-top:1rem;">
-  <em>Gallery images coming soon — reach out via <a href="mailto:lauriankaijage@gmail.com">email</a> to request field photos.</em>
-</p>
 ```
 
 ---
@@ -163,9 +205,9 @@ Transforming raw field data into reports, dashboards, and visualizations that in
 ## Partners & Collaborators
 
 ::: {.partners-row}
-- **Mwambao Coastal Community Network** — primary employer and implementing partner
-- **Local Government Authorities** — data sharing and marine spatial planning
-- **Regional Research Institutions** — joint biodiversity assessments
-- **Fishing Communities** — co-management and citizen science
-- **International NGO Partners** — funding, technical support, and documentary production
+- **Mwambao Coastal Community Network** — primary institution and conservation network
+- **Coastal fishing communities** — Zanzibar and Tanga region (50 communities)
+- **Local Government Authorities** — management plan integration and marine spatial planning
+- **Women's community groups** — in-water monitoring and gender inclusion in conservation
+- **Regional Research & NGO Partners** — coral reef and mangrove restoration programmes
 :::

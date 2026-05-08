@@ -1,11 +1,11 @@
 ---
 title: "Projects"
-description: "Research and conservation projects in marine science, ecological data, and community conservation"
+description: "Research and conservation projects in marine science, ecological data, and community conservation across Tanzania"
 ---
 
 ```{=html}
 <div class="page-hero">
-  <p class="hero-tagline">Science in action — research, monitoring, and conservation at scale</p>
+  <p class="hero-tagline">Science in action — research, monitoring, and restoration at scale</p>
 </div>
 ```
 
@@ -14,161 +14,140 @@ description: "Research and conservation projects in marine science, ecological d
 ::: {.project-grid}
 
 ::: {.card}
-### Coastal Biodiversity Monitoring Programme
+### Community Fisheries Training Programme
+**Status:** [Ongoing]{.badge-green}
+**Organisation:** Mwambao Coastal Community Network
+**Reach:** Zanzibar & Tanga Region, Northern Tanzania
+
+Designed and delivered fisheries data collection training to **200 community members** across **50 coastal communities**, covering protocols for reef fish, prawns, and octopus monitoring. Community-generated data is fed into local management plans and used to drive adaptive management decisions — putting fishers at the centre of their own resource management.
+
+**Outcomes:**
+- 200 trained community monitors across 50 communities
+- Reef fish, prawn, and octopus data collection protocols adopted
+- Community data directly informs local fisheries management plans
+- Adaptive management decisions supported by community-generated data
+
+**Tools:** KoboToolbox · Field data forms · R · Training materials
+
+[Community Training]{.badge} [Fisheries]{.badge} [Adaptive Management]{.badge}
+:::
+
+::: {.card}
+### In-Water Monitor Training — Underwater Visual Census
 **Status:** [Ongoing]{.badge-green}
 **Organisation:** Mwambao Coastal Community Network
 
-A long-running ecological monitoring programme tracking reef fish, coral, seagrass, and mangrove health across 7+ sites along Tanzania's coast. Monitoring data drives annual conservation reporting and informs government marine spatial planning.
-
-**What I do:**
-- Design and lead biodiversity survey protocols
-- Coordinate and train field teams and community monitors
-- Analyse data using R — trend analysis, species richness, benthic cover
-- Produce annual reports for government and NGO stakeholders
+Trained **300+ community members** as in-water monitors using underwater visual census (UVC) techniques for coral reef monitoring. Training covered both data collection and analysis, enabling monitors to independently assess reef health and contribute to restoration planning. A landmark outcome: **70 women** were trained as in-water monitors — highly unconventional in coastal Tanzania where women's participation in snorkelling is culturally rare.
 
 **Outcomes:**
-- Multi-year baseline datasets for 7+ coastal sites
-- Community-owned monitoring protocols now in use
-- Data contributed to national MPA planning
+- 300+ in-water monitors trained in UVC methodology
+- **70 women** trained as underwater monitors — unprecedented in this region
+- Training extended to data analysis, building full monitoring capacity
+- UVC data used to guide coral reef restoration and replenishment planning
 
-**Tools:** R · QGIS · KoboToolbox · Excel · ggplot2
+**Tools:** Underwater survey slates · KoboToolbox · R · Field data analysis
 
-[Biodiversity]{.badge} [Field Research]{.badge} [Community Monitoring]{.badge}
+[Coral Reef Monitoring]{.badge} [Gender Inclusion]{.badge} [UVC]{.badge} [Capacity Building]{.badge}
 :::
 
 ::: {.card}
-### Coastal GIS & Habitat Mapping
-**Status:** [Ongoing]{.badge-green}
-**Organisation:** Mwambao Coastal Community Network
-
-Spatial mapping of critical coastal habitats — seagrass beds, mangrove forests, and coral reefs — using remote sensing data and GPS-verified field surveys. Outputs are used in MPA boundary proposals and management plans.
-
-**What I do:**
-- Process and classify satellite imagery for habitat extent mapping
-- Ground-truth habitat boundaries with field surveys
-- Create publication-quality maps and spatial reports
-
-**Outcomes:**
-- Detailed habitat extent maps for key conservation sites
-- Spatial data integrated into government planning documents
-- Improved understanding of habitat connectivity
-
-**Tools:** QGIS · ArcGIS · R (sf, terra) · Google Earth Engine
-
-[GIS]{.badge} [Habitat Mapping]{.badge} [Remote Sensing]{.badge}
-:::
-
-::: {.card}
-### Marine Species Database
-**Status:** [Active Development]{.badge-blue}
-**Organisation:** Mwambao Coastal Community Network
-
-Building and managing a structured database to compile species observations, monitoring records, and occurrence data from all field programmes. Designed to support long-term trend analysis and regional data sharing.
-
-**What I do:**
-- Design database schema for species and site data
-- Build data pipelines to ingest KoboToolbox field data
-- Automate quality checks and reporting with R scripts
-
-**Outcomes:**
-- Centralised species records from 5+ years of monitoring
-- Standardised data entry reducing field data errors
-- Automated monthly summary reports generated
-
-**Tools:** SQL · R · KoboToolbox · PostgreSQL
-
-[Database Design]{.badge} [Data Management]{.badge} [Automation]{.badge}
-:::
-
-::: {.card}
-### Community-Based Conservation Training
-**Status:** [Ongoing]{.badge-green}
-**Organisation:** Mwambao Coastal Community Network + Local Partners
-
-Designing and facilitating training programmes for fishing communities, enabling them to conduct their own biodiversity monitoring. Builds local conservation ownership and generates community-level data.
-
-**What I do:**
-- Design training curricula for non-scientific audiences
-- Facilitate hands-on reef survey training sessions
-- Mentor community monitors over extended periods
-
-**Outcomes:**
-- 12+ trained community data collectors active across coastal sites
-- Community-managed monitoring sustained beyond project cycles
-- Local conservation knowledge documented and integrated
-
-**Tools:** KoboToolbox · Training materials · Field guides
-
-[Community Engagement]{.badge} [Training]{.badge} [Citizen Science]{.badge}
-:::
-
-::: {.card}
-### Climate Resilience Assessment
-**Status:** [Planning Phase]{.badge-orange}
-**Organisation:** TBD / In Development
-
-Evaluating how climate change — ocean warming, acidification, sea level rise — is affecting coastal ecosystem resilience at key monitoring sites. Will integrate historical monitoring data with climate projections.
-
-**What I do:**
-- Review existing monitoring data for climate-related signals
-- Develop climate vulnerability scoring for habitats and communities
-- Model future species and habitat distribution scenarios
-
-**Planned Outcomes:**
-- Site-level climate vulnerability assessments
-- Adaptive management recommendations
-- Input into regional climate resilience strategies
-
-**Tools:** R · Species distribution modelling · Climate datasets
-
-[Climate]{.badge} [Resilience]{.badge} [Modelling]{.badge}
-:::
-
-::: {.card}
-### Ecological Data Pipelines & Reporting Automation
+### Coral Reef Restoration — Data Support
 **Status:** [Active]{.badge-green}
 **Organisation:** Mwambao Coastal Community Network
 
-Building automated data workflows in R that pull from field data platforms, clean and validate records, run statistical summaries, and generate formatted reports — reducing manual reporting time significantly.
-
-**What I do:**
-- Build end-to-end data pipelines in R
-- Write reproducible analysis scripts (R Markdown / Quarto)
-- Develop interactive dashboards with Shiny
+Provided end-to-end data support for the restoration of **347 hectares of coral reef replenishment zones**, including the deployment and monitoring of **1,300 artificial reef structures**. Responsibilities covered data collection protocol design, field survey coordination, and analysis of reef health data to measure restoration effectiveness over time.
 
 **Outcomes:**
-- Reporting time reduced from weeks to hours
-- Reproducible, version-controlled analysis workflows
-- Interactive dashboards for internal team monitoring
+- 347 ha of coral reef replenishment zone established and monitored
+- 1,300 artificial reef structures deployed and tracked
+- Reef health monitoring data informing ongoing restoration management
+- Monitoring protocols developed for long-term replenishment zone tracking
 
-**Tools:** R · Shiny · Quarto · R Markdown · KoboToolbox API
+**Tools:** Underwater survey forms · R · QGIS · KoboToolbox
 
-[R Programming]{.badge} [Automation]{.badge} [Dashboards]{.badge}
+[Coral Restoration]{.badge} [Artificial Reef]{.badge} [Data Analysis]{.badge}
 :::
 
+::: {.card}
+### Mangrove Restoration — Data & Protocol Support
+**Status:** [Active]{.badge-green}
+**Organisation:** Mwambao Coastal Community Network
+
+Supported the restoration of approximately **60 hectares of mangrove habitat** through data collection protocol design and ecological analysis. Work included field surveys to track restoration progress, analysis of mangrove extent and health, and integration with seagrass monitoring for a connected coastal habitat picture.
+
+**Outcomes:**
+- 60 ha of mangrove area supported through data-driven restoration
+- Restoration monitoring protocols designed and implemented
+- Mangrove extent and health tracked using standardised field surveys
+- Data integrated with seagrass and reef monitoring for holistic coastal assessment
+
+**Tools:** QGIS · R · Field survey forms · KoboToolbox
+
+[Mangrove Restoration]{.badge} [Seagrass]{.badge} [Habitat Monitoring]{.badge}
 :::
 
----
+::: {.card}
+### Fish Catch Monitoring Protocol Development
+**Status:** [Completed]{.badge-blue}
+**Organisation:** Mwambao Coastal Community Network
 
-## Skills Used Across Projects
+Developed **Mwambao's second institutional fish catch monitoring protocol** — a comprehensive data collection framework standardising how fisheries catch and effort data is recorded across the entire network. This protocol is now the backbone of the organisation's fisheries monitoring programme.
 
-::: {.skills-summary}
-| Domain | Tools & Methods |
-|---|---|
-| **Field Ecology** | Reef surveys, benthic transects, seagrass & mangrove assessment |
-| **Data Analysis** | R, Python, statistical modelling, time series |
-| **Spatial Analysis** | QGIS, ArcGIS, R spatial packages, remote sensing |
-| **Visualisation** | ggplot2, Plotly, Shiny, Quarto |
-| **Data Management** | SQL, PostgreSQL, KoboToolbox, Excel |
-| **Communication** | Reports, workshops, documentary consultation |
+**Outcomes:**
+- New protocol adopted across the Mwambao network
+- Standardised data collection improving consistency and data quality
+- Protocol supports catch trend analysis and stock assessment
+- Replaces and improves upon the previous monitoring framework
+
+**Tools:** Protocol design · KoboToolbox · R · Stakeholder consultation
+
+[Protocol Development]{.badge} [Fisheries Management]{.badge} [Institutional Tools]{.badge}
+:::
+
+::: {.card}
+### Ecological Survey Forms — 10+ Tools Designed
+**Status:** [Ongoing]{.badge-green}
+**Organisation:** Mwambao Coastal Community Network
+
+Designed and built **10+ digital and paper-based ecological survey forms** covering all ecosystem types monitored by the Mwambao ecological department — including reef fish, coral cover, seagrass, mangrove, octopus, and prawn surveys. Forms are used by field teams and community monitors across all active sites.
+
+**Outcomes:**
+- 10+ survey forms in active use across programmes
+- Consistent data structure across reef fish, coral, seagrass, mangrove, octopus, and prawn monitoring
+- Reduced field data errors and improved data comparability
+- Digital forms integrated with KoboToolbox for streamlined data flow
+
+**Tools:** KoboToolbox · ODK · Excel · Field testing with monitors
+
+[Survey Design]{.badge} [Data Management]{.badge} [Multi-Ecosystem]{.badge}
+:::
+
+::: {.card}
+### Ecological Data Analysis — Full Department
+**Status:** [Ongoing]{.badge-green}
+**Organisation:** Mwambao Coastal Community Network
+
+Responsible for **all ecological data analysis** across Mwambao's ecological department — spanning fisheries, coral reef monitoring, mangrove restoration, and seagrass monitoring programmes. Built reproducible R-based analytical pipelines and produces annual reports and dashboards that drive conservation planning.
+
+**Outcomes:**
+- End-to-end analysis across four major ecosystem monitoring programmes
+- Annual biodiversity and restoration reports produced for stakeholders
+- R pipelines automating data cleaning, analysis, and visualisation
+- Adaptive management recommendations delivered based on analytical findings
+
+**Tools:** R · ggplot2 · Quarto · KoboToolbox API · QGIS · SQL
+
+[Data Analysis]{.badge} [R Programming]{.badge} [Multi-Programme]{.badge} [Reporting]{.badge}
+:::
+
 :::
 
 ---
 
 ```{=html}
 <div class="cta-bar">
-  <a href="impact.html" class="cta-btn primary">See Impact & Outcomes</a>
-  <a href="skills.html" class="cta-btn secondary">View Full Skills</a>
+  <a href="impact.html" class="cta-btn primary">See Full Impact & Outcomes</a>
+  <a href="skills.html" class="cta-btn secondary">View Skills & Experience</a>
   <a href="mailto:lauriankaijage@gmail.com" class="cta-btn secondary">Collaborate</a>
 </div>
 ```

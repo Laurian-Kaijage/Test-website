@@ -303,6 +303,35 @@ hr {
   margin-bottom: 0.5rem;
 }
 
+/* ── Stats Grid (Impact page) ───────────────────────────── */
+.stats-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 1.2rem;
+  margin: 2rem 0;
+}
+.stat-box {
+  background: linear-gradient(135deg, var(--primary) 0%, #0e7094 100%);
+  border-radius: 12px;
+  padding: 1.5rem 1rem;
+  text-align: center;
+  color: white;
+  transition: transform 0.2s;
+}
+.stat-box:hover { transform: translateY(-3px); }
+.stat-number {
+  font-size: 2.2rem;
+  font-weight: 800;
+  line-height: 1;
+  color: #fff;
+}
+.stat-desc {
+  font-size: 0.8rem;
+  color: rgba(255,255,255,0.85);
+  margin-top: 0.5rem;
+  line-height: 1.4;
+}
+
 /* ── Gallery Placeholder ────────────────────────────────── */
 .gallery-placeholder {
   display: grid;

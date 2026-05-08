@@ -1,7 +1,7 @@
 ---
 title: "Laurian Kaijage"
 subtitle: "Marine Scientist | Ecological Data Manager | Conservation Practitioner"
-image: image/profile.jpg
+image: image/profile.JPG
 description: "Marine Scientist specializing in ecological data management and coastal conservation at Mwambao Coastal Community Network"
 about:
   template: jolla
@@ -26,21 +26,25 @@ I'm **Laurian Kaijage** — a marine scientist, field researcher, and ecological
 ```{=html}
 <!-- Impact Counter Strip -->
 <section class="impact-strip">
-  <div class="impact-counter" data-target="7">
-    <span class="counter-number" id="counter-sites">0</span>
-    <span class="counter-label">Coastal Sites Monitored</span>
+  <div class="impact-counter" data-target="500">
+    <span class="counter-number">0</span>
+    <span class="counter-label">People Trained</span>
   </div>
-  <div class="impact-counter" data-target="12">
-    <span class="counter-number" id="counter-communities">0</span>
+  <div class="impact-counter" data-target="50">
+    <span class="counter-number">0</span>
     <span class="counter-label">Communities Engaged</span>
   </div>
-  <div class="impact-counter" data-target="300">
-    <span class="counter-number" id="counter-species">0</span>
-    <span class="counter-label">Species Recorded</span>
+  <div class="impact-counter" data-target="347">
+    <span class="counter-number">0</span>
+    <span class="counter-label">Ha Coral Zone Restored</span>
   </div>
-  <div class="impact-counter" data-target="5">
-    <span class="counter-number" id="counter-docs">0</span>
-    <span class="counter-label">Documentary Features</span>
+  <div class="impact-counter" data-target="1300">
+    <span class="counter-number">0</span>
+    <span class="counter-label">Artificial Reefs Deployed</span>
+  </div>
+  <div class="impact-counter" data-target="60">
+    <span class="counter-number">0</span>
+    <span class="counter-label">Ha Mangrove Restored</span>
   </div>
 </section>
 
@@ -91,7 +95,7 @@ Leading biodiversity surveys and ecological assessments across Tanzania's coastl
 
 ::: {.focus-card}
 ### 📊 Data & Analysis
-Turning field observations into actionable insights using R, Python, GIS, and statistical modelling to guide conservation decisions.
+Turning field observations into actionable insights using R,  GIS, and statistical modelling to guide conservation decisions.
 :::
 
 ::: {.focus-card}
@@ -101,7 +105,7 @@ Building local capacity for conservation through training, engagement, and co-de
 
 ::: {.focus-card}
 ### 🎬 Media & Advocacy
-Participating in documentary productions and science communication to amplify conservation stories from the Swahili Coast.
+Participating in documentary productions and science communication to amplify conservation stories from the local coastal communities.
 :::
 
 :::
