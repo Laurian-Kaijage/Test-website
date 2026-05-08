@@ -112,7 +112,7 @@ Led **all ecological data analysis** for Mwambao's ecological department — spa
 
   <div class="timeline-item right">
     <div class="timeline-content">
-      <span class="timeline-year">2023</span>
+      <span class="timeline-year">2023 – 2026</span>
       <h3>Ecological Data Manager — Mwambao Coastal Community Network</h3>
       <p>Took on the full ecological data management role at Mwambao — designing monitoring protocols, leading community training across 50 communities, building data pipelines in R, and producing annual reports across fisheries, coral reef, mangrove, and seagrass programmes.</p>
     </div>
@@ -128,15 +128,7 @@ Led **all ecological data analysis** for Mwambao's ecological department — spa
 
   <div class="timeline-item right">
     <div class="timeline-content">
-      <span class="timeline-year">2024</span>
-      <h3>Youth Sounding Board Member — EU Commission Tanzania</h3>
-      <p>Selected to the EU Ambassador's Youth Sounding Board, advising on youth participation and empowerment in the blue economy, human capital, employment, and governance in Tanzania.</p>
-    </div>
-  </div>
-
-  <div class="timeline-item left">
-    <div class="timeline-content">
-      <span class="timeline-year">2026</span>
+      <span class="timeline-year">2026 – Present</span>
       <h3>Marine Ecology Officer — The Nature Conservancy</h3>
       <p>Joined The Nature Conservancy as Marine Ecology Officer, leading fieldwork coordination, data collection protocols, and stakeholder engagement under the Pamoja Tuhifadhi Bahari Yetu project — working across Mtwara and Unguja North to strengthen marine co-management and biodiversity conservation.</p>
     </div>

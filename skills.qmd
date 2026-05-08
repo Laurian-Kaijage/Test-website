@@ -177,6 +177,38 @@ document.addEventListener('DOMContentLoaded', () => {
 
 ---
 
+## Publications
+
+::: {.pub-list}
+
+::: {.pub-item}
+**Diversity and biological characterization of anguillid eels in Pangani and Rufiji river systems, Tanzania: Implications for conservation**
+Laurian, K., Gaspare, L., Wysujack, K., Mwakosya, C., & Hanel, R.
+*Journal of Fish Biology* | 2025
+:::
+
+::: {.pub-item}
+**Assessing the biodiversity of eels of Tanzania — Promoting sustainable fisheries through environmental monitoring and capacity building (BIOEELS)**
+Reinhold Hanel, Lydia Gaspare, Catherine Mwakosya, Claudia Kanyairitha, **Laurian Lawrence Kaijage**, Ulrike Kammann, Klaus Wysujack
+2024
+:::
+
+::: {.pub-item}
+**Environmental Monitoring and Genetic Identification of Freshwater Fish Species Enable the Conservation of Biodiversity in Coastal Rivers of Tanzania**
+Lydia Gaspare, Catherine Mwakosya, **Laurian Lawrence Kaijage**, Claudia Kanyairitha, Klaus Wysujack, and Reinhold Hanel
+2024
+:::
+
+::: {.pub-item}
+**Biodiversity of Eels in Pangani and Rufiji Rivers, Tanzania**
+University of Dar es Salaam | 2023
+🎬 [Watch documentary](https://www.youtube.com/watch?v=xG5QM6aQlzY)
+:::
+
+:::
+
+---
+
 ## Download CV
 
 ```{=html}

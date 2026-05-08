@@ -550,6 +550,31 @@ hr {
   font-size: 0.9rem;
 }
 
+/* ── Publications ───────────────────────────────────────── */
+.pub-list {
+  margin: 1rem 0;
+}
+.pub-item {
+  border-left: 4px solid var(--secondary);
+  background: var(--light-bg);
+  border-radius: 0 8px 8px 0;
+  padding: 1rem 1.4rem;
+  margin-bottom: 1rem;
+  font-size: 0.95rem;
+  line-height: 1.6;
+}
+.pub-item strong {
+  display: block;
+  color: var(--primary);
+  font-size: 0.97rem;
+  margin-bottom: 0.3rem;
+}
+.pub-item em {
+  color: var(--secondary);
+  font-style: normal;
+  font-weight: 600;
+}
+
 .cv-download-box {
   background: var(--light-bg);
   border-radius: 10px;
