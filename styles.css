@@ -550,6 +550,34 @@ hr {
   font-size: 0.9rem;
 }
 
+/* ── Press Cards ────────────────────────────────────────── */
+.press-card {
+  background: #fff;
+  border: 1px solid var(--card-border);
+  border-top: 4px solid var(--accent);
+  border-radius: 10px;
+  padding: 1.6rem;
+  margin-bottom: 1rem;
+  transition: box-shadow 0.2s;
+}
+.press-card:hover {
+  box-shadow: 0 6px 18px rgba(0,0,0,0.08);
+}
+.press-card h3 {
+  margin-top: 0;
+  font-size: 1.05rem;
+}
+.press-card blockquote {
+  border-left: 3px solid var(--accent);
+  margin: 1rem 0;
+  padding: 0.6rem 1rem;
+  background: var(--light-bg);
+  border-radius: 0 6px 6px 0;
+  font-style: italic;
+  color: var(--text-muted);
+  font-size: 0.95rem;
+}
+
 /* ── Publications ───────────────────────────────────────── */
 .pub-list {
   margin: 1rem 0;

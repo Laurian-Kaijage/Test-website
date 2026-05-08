@@ -53,6 +53,52 @@ Produced during my time at Mwambao, this documentary highlights octopus closure 
 
 ---
 
+## In the Press
+
+Articles and features where my work and perspective have been cited.
+
+---
+
+::: {.press-card}
+### Whose Knowledge Counts? — African Ocean Forum (UNOC3)
+**Publication:** AFO — UN Ocean Conference 3 Feature | [Read article →](https://afo.or.tz/unoc3/)
+
+This piece examines the tension between high-tech ocean mapping initiatives and the traditional ecological knowledge held by coastal communities. My journey from data analyst to certified diver is highlighted as an example of why embodied, first-hand experience with marine ecosystems is irreplaceable in effective ocean governance.
+
+> *"Having that first-hand look of how things are underwater really shaped my understanding of the whole ecosystem and how I can align my message to the communities properly."*
+> — Laurian Kaijage, quoted in AFO UNOC3 feature
+
+The article also notes my participation in the **Tanzania DiveLab** under AFO's Ocean Access Program — creating equitable ocean access for marine scientists, storytellers, filmmakers, and marine rangers.
+:::
+
+---
+
+::: {.press-card}
+### WIO Early Career Scientists Network — WIOMSA Blog
+**Publication:** Western Indian Ocean Marine Science Association (WIOMSA) | [Read feature →](https://blog.wiomsa.net/wp-content/uploads/2024/07/19.-Updates-from-WIO-ECSN.pdf)
+
+Featured in the WIO Early Career Scientists Network (WIO-ECSN) updates, recognising my marine research and community engagement work at Mwambao Coastal Community Network and as Hub Leader at SOA Tanzania.
+
+> *"Laurian's work in marine research and community engagement has advanced local conservation initiatives and fostered sustainable practices among coastal populations."*
+> — WIOMSA WIO-ECSN Update, 2024
+
+Also noted: my appointment (alongside a fellow appointee) to advise the EU Ambassador to Tanzania and the East African Community on youth participation and empowerment in the blue economy, human capital, employment, and governance.
+:::
+
+---
+
+::: {.press-card}
+### Diffusion of Innovation in Community-Managed Fisheries — Blue Ventures
+**Publication:** Blue Ventures Explore | [Read article →](https://explore.blueventures.org/diffusion-of-innovation-in-communitymanaged-fisheries)
+
+Featured in Blue Ventures' exploration of how communities collect and use fisheries data to manage resources and control fishing effort — showcasing Mwambao's community-based monitoring approach.
+
+> *"For the learning visit, we wanted to showcase how different communities collect data and use the same data to manage their fisheries and control fishing efforts."*
+> — Kaijage Laurian, Mwambao Ecological Data Manager, quoted in Blue Ventures
+:::
+
+---
+
 ## Science Communication
 
 Beyond film, I communicate conservation science through:
