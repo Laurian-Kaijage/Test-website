@@ -130,6 +130,16 @@ Led **all ecological data analysis** for Mwambao's ecological department — spa
     <div class="photo-caption">Tanzania DiveLab participants — AFO's Ocean Access Program creating equitable access to the ocean for marine scientists and conservation practitioners</div>
   </div>
 
+  <div class="photo-item">
+    <img src="image/fieldwork/artificial-reef-structures.jpg" alt="Artificial reef structures deployed underwater" loading="lazy" />
+    <div class="photo-caption">Artificial reef structures deployed on the seabed — coral colonisation already visible on the structures, part of 1,300 deployed across restored reef areas</div>
+  </div>
+
+  <div class="photo-item">
+    <img src="image/fieldwork/inwater-monitors.jpg" alt="Community in-water monitors conducting underwater visual census" loading="lazy" />
+    <div class="photo-caption">Trained community in-water monitors conducting underwater visual census — recording reef fish species, abundance and size on waterproof datasheets</div>
+  </div>
+
 </div>
 ```
 
