@@ -2,7 +2,7 @@
 title: "Laurian Kaijage"
 subtitle: "Marine Scientist | Ecological Data Manager | Conservation Practitioner"
 image: image/profile.JPG
-description: "Marine Scientist specializing in ecological data management and coastal conservation at Mwambao Coastal Community Network"
+description: "Marine Scientist specializing in ecological data management and coastal conservation in Tanzania"
 about:
   template: jolla
   links:
@@ -19,7 +19,7 @@ about:
 
 ## Welcome
 
-I'm **Laurian Kaijage** — a marine scientist, field researcher, and ecological data manager working on the frontlines of coastal conservation in Tanzania. At **Mwambao Coastal Community Network**, I translate raw field data into conservation decisions that protect communities and ecosystems alike.
+I'm **Laurian Kaijage** — a marine scientist, field researcher, and ecological data manager with a track record of turning field science into conservation outcomes on Tanzania's Swahili Coast. My work spans community training, ecological monitoring, habitat restoration, and data systems that put evidence at the heart of conservation decisions.
 
 ---
 

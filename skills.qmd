@@ -13,16 +13,16 @@ description: "Technical expertise, field skills, and professional experience in 
 
 ::: {.experience-card}
 ### Ecological Data Manager
-**Mwambao Coastal Community Network** | Tanzania | *2019 – Present*
+**Mwambao Coastal Community Network** | Tanzania
 
-Leading ecological data management across a network of coastal monitoring sites spanning Tanzania's coastline. Responsible for designing monitoring protocols, managing field teams, building data pipelines, and producing reports for conservation decision-making.
+Led ecological data management across a network of coastal monitoring sites spanning Tanzania's coastline. Responsible for designing monitoring protocols, managing field teams, building data pipelines, and producing reports for conservation decision-making.
 
 **Key responsibilities:**
 - Biodiversity monitoring programme design and coordination
 - Spatial data management and GIS mapping (seagrass, mangrove, coral extent)
 - Statistical analysis of long-term ecological trends in R
 - Stakeholder reporting — government, NGO, and community audiences
-- Community ranger training and capacity building
+- Community training and capacity building (500+ people trained)
 - Documentary and media engagement as field science expert
 :::
 

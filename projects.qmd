@@ -15,7 +15,6 @@ description: "Research and conservation projects in marine science, ecological d
 
 ::: {.card}
 ### Community Fisheries Training Programme
-**Status:** [Ongoing]{.badge-green}
 **Organisation:** Mwambao Coastal Community Network
 **Reach:** Zanzibar & Tanga Region, Northern Tanzania
 
@@ -34,7 +33,6 @@ Designed and delivered fisheries data collection training to **200 community mem
 
 ::: {.card}
 ### In-Water Monitor Training — Underwater Visual Census
-**Status:** [Ongoing]{.badge-green}
 **Organisation:** Mwambao Coastal Community Network
 
 Trained **300+ community members** as in-water monitors using underwater visual census (UVC) techniques for coral reef monitoring. Training covered both data collection and analysis, enabling monitors to independently assess reef health and contribute to restoration planning. A landmark outcome: **70 women** were trained as in-water monitors — highly unconventional in coastal Tanzania where women's participation in snorkelling is culturally rare.
@@ -52,7 +50,6 @@ Trained **300+ community members** as in-water monitors using underwater visual 
 
 ::: {.card}
 ### Coral Reef Restoration — Data Support
-**Status:** [Active]{.badge-green}
 **Organisation:** Mwambao Coastal Community Network
 
 Provided end-to-end data support for the restoration of **347 hectares of coral reef replenishment zones**, including the deployment and monitoring of **1,300 artificial reef structures**. Responsibilities covered data collection protocol design, field survey coordination, and analysis of reef health data to measure restoration effectiveness over time.
@@ -70,7 +67,6 @@ Provided end-to-end data support for the restoration of **347 hectares of coral 
 
 ::: {.card}
 ### Mangrove Restoration — Data & Protocol Support
-**Status:** [Active]{.badge-green}
 **Organisation:** Mwambao Coastal Community Network
 
 Supported the restoration of approximately **60 hectares of mangrove habitat** through data collection protocol design and ecological analysis. Work included field surveys to track restoration progress, analysis of mangrove extent and health, and integration with seagrass monitoring for a connected coastal habitat picture.
@@ -88,7 +84,6 @@ Supported the restoration of approximately **60 hectares of mangrove habitat** t
 
 ::: {.card}
 ### Fish Catch Monitoring Protocol Development
-**Status:** [Completed]{.badge-blue}
 **Organisation:** Mwambao Coastal Community Network
 
 Developed **Mwambao's second institutional fish catch monitoring protocol** — a comprehensive data collection framework standardising how fisheries catch and effort data is recorded across the entire network. This protocol is now the backbone of the organisation's fisheries monitoring programme.
@@ -106,7 +101,6 @@ Developed **Mwambao's second institutional fish catch monitoring protocol** — 
 
 ::: {.card}
 ### Ecological Survey Forms — 10+ Tools Designed
-**Status:** [Ongoing]{.badge-green}
 **Organisation:** Mwambao Coastal Community Network
 
 Designed and built **10+ digital and paper-based ecological survey forms** covering all ecosystem types monitored by the Mwambao ecological department — including reef fish, coral cover, seagrass, mangrove, octopus, and prawn surveys. Forms are used by field teams and community monitors across all active sites.
@@ -124,7 +118,6 @@ Designed and built **10+ digital and paper-based ecological survey forms** cover
 
 ::: {.card}
 ### Ecological Data Analysis — Full Department
-**Status:** [Ongoing]{.badge-green}
 **Organisation:** Mwambao Coastal Community Network
 
 Responsible for **all ecological data analysis** across Mwambao's ecological department — spanning fisheries, coral reef monitoring, mangrove restoration, and seagrass monitoring programmes. Built reproducible R-based analytical pipelines and produces annual reports and dashboards that drive conservation planning.
