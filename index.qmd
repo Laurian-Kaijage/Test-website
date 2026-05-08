@@ -115,7 +115,7 @@ Participating in documentary productions and science communication to amplify co
 ```{=html}
 <div class="home-feature-photo">
   <img src="image/fieldwork/laurian-speaking.jpg" alt="Laurian Kaijage presenting at a conference" />
-  <div class="home-feature-caption">Presenting conservation science findings at a stakeholder forum</div>
+  <div class="home-feature-caption">Speaking on marine conservation at a Youth Sounding Board meeting with the Minister of Foreign Affairs</div>
 </div>
 ```
 
