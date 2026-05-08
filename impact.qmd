@@ -95,6 +95,46 @@ Led **all ecological data analysis** for Mwambao's ecological department — spa
 
 ---
 
+## Field Photos
+
+```{=html}
+<div class="photo-gallery">
+
+  <div class="photo-item">
+    <img src="image/fieldwork/fisheries-training.jpg" alt="Fisheries data collection training with community monitors" loading="lazy" />
+    <div class="photo-caption">Fisheries data collection training — teaching community monitors to record reef fish, prawn and octopus catch data</div>
+  </div>
+
+  <div class="photo-item">
+    <img src="image/fieldwork/mangrove-fieldwork.jpg" alt="Field team in mangrove restoration site" loading="lazy" />
+    <div class="photo-caption">Field team in a mangrove restoration site — supporting 60 ha of habitat recovery through data-driven monitoring</div>
+  </div>
+
+  <div class="photo-item">
+    <img src="image/fieldwork/coral-reef-restoration.jpg" alt="Divers installing artificial reef structure" loading="lazy" />
+    <div class="photo-caption">In-water work on artificial reef structures — part of the 1,300 structures deployed across 347 ha of restored coral reef area</div>
+  </div>
+
+  <div class="photo-item">
+    <img src="image/fieldwork/reef-biodiversity.jpg" alt="Healthy reef ecosystem with schooling fish" loading="lazy" />
+    <div class="photo-caption">A healthy reef ecosystem — the kind of biodiversity our monitoring programmes track and protect</div>
+  </div>
+
+  <div class="photo-item">
+    <img src="image/fieldwork/community-workshop.jpg" alt="Community engagement workshop" loading="lazy" />
+    <div class="photo-caption">Community engagement session — working with fishing communities to co-design monitoring approaches and management plans</div>
+  </div>
+
+  <div class="photo-item">
+    <img src="image/fieldwork/divelab-team.jpg" alt="Tanzania DiveLab — AFO Ocean Access Program" loading="lazy" />
+    <div class="photo-caption">Tanzania DiveLab participants — AFO's Ocean Access Program creating equitable access to the ocean for marine scientists and conservation practitioners</div>
+  </div>
+
+</div>
+```
+
+---
+
 ## Professional Journey
 
 *A timeline of roles, projects, and milestones across Tanzania's coastal conservation sector.*

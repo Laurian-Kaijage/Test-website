@@ -113,6 +113,13 @@ Participating in documentary productions and science communication to amplify co
 ---
 
 ```{=html}
+<div class="home-feature-photo">
+  <img src="image/fieldwork/laurian-speaking.jpg" alt="Laurian Kaijage presenting at a conference" />
+  <div class="home-feature-caption">Presenting conservation science findings at a stakeholder forum</div>
+</div>
+```
+
+```{=html}
 <div class="cta-bar">
   <a href="impact.html" class="cta-btn primary">See My Impact</a>
   <a href="media.html" class="cta-btn secondary">Watch Documentaries</a>
