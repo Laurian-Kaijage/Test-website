@@ -111,11 +111,6 @@ Led **all ecological data analysis** for Mwambao's ecological department — spa
   </div>
 
   <div class="photo-item">
-    <img src="image/fieldwork/coral-reef-restoration.jpg" alt="Divers installing artificial reef structure" loading="lazy" />
-    <div class="photo-caption">In-water work on artificial reef structures — part of the 1,300 structures deployed across 347 ha of restored coral reef area</div>
-  </div>
-
-  <div class="photo-item">
     <img src="image/fieldwork/reef-biodiversity.jpg" alt="Healthy reef ecosystem with schooling fish" loading="lazy" />
     <div class="photo-caption">A healthy reef ecosystem — the kind of biodiversity our monitoring programmes track and protect</div>
   </div>
