@@ -5,32 +5,45 @@ description: "Technical expertise, field skills, and professional experience in 
 
 ```{=html}
 <div class="page-hero">
-  <p class="hero-tagline">Bridging field science and data — from reef surveys to R scripts</p>
+  <p class="hero-tagline">Bridging field science and data — from reef surveys to R analysis</p>
 </div>
 ```
 
 ## Professional Experience
 
 ::: {.experience-card}
-### Ecological Data Manager
-**Mwambao Coastal Community Network** | Tanzania
+### 🐠 Marine Ecology Officer
+**The Nature Conservancy** | Tanzania | *May 2026 – Present*
 
-Led ecological data management across a network of coastal monitoring sites spanning Tanzania's coastline. Responsible for designing monitoring protocols, managing field teams, building data pipelines, and producing reports for conservation decision-making.
-
-**Key responsibilities:**
-- Biodiversity monitoring programme design and coordination
-- Spatial data management and GIS mapping (seagrass, mangrove, coral extent)
-- Statistical analysis of long-term ecological trends in R
-- Stakeholder reporting — government, NGO, and community audiences
-- Community training and capacity building (500+ people trained)
-- Documentary and media engagement as field science expert
+Leading fieldwork coordination, data collection protocol design, and community stakeholder engagement under the Pamoja Tuhifadhi Bahari Yetu project. Represents TNC's Oceans Strategy in Tanzania and the Western Indian Ocean region; coordinates partners including IUCN, WWF, WCS, and Forum CC; oversees workplan delivery against EU–IUCN and TNC requirements across Mtwara and Unguja North.
 :::
 
 ::: {.experience-card}
-### MSc Marine Science
-**University / Institution** | *Year of Completion*
+### 🌊 Youth Sounding Board Member
+**European Union Commission — Tanzania** | *June 2024 – Present*
 
-Graduate research focused on [coastal ecology / marine biodiversity / relevant thesis topic]. Developed rigorous scientific methodology in ecological field surveys, statistical analysis, and conservation planning.
+Appointed to the EU Ambassador's Youth Sounding Board, advising on youth participation and empowerment in the blue economy, human capital, employment, and governance in Tanzania.
+:::
+
+::: {.experience-card}
+### 📊 Ecological Data Manager
+**Mwambao Coastal Community Network** | Tanzania | *June 2023 – March 2026*
+
+Managed all ecological data across Mwambao's monitoring network — designing collection protocols, leading quality control, coordinating field teams, conducting analysis across fisheries, coral reef, mangrove, and seagrass programmes, and producing annual funder reports. Trained 500+ community members and in-water monitors. Developed the organisation's second fish catch monitoring protocol and 10+ standardised ecological survey forms.
+:::
+
+::: {.experience-card}
+### 📢 Communications Manager
+**Sustainable Ocean Alliance — Tanzania** | *June 2023 – 2024*
+
+Managed internal communications for SOA Tanzania — onboarding new members, mobilising participation in ocean conservation projects, and acting as a bridge between organisational leadership and the broader membership.
+:::
+
+::: {.experience-card}
+### 🔬 University Research Assistant
+**BIOEEL-TZ Project, University of Dar es Salaam** | Tanzania | *July 2021 – February 2023*
+
+Conducted fish biodiversity and environmental data collection and analysis for the anguillid eel research project. Facilitated community workshops and school outreach, presented findings at international conferences, and co-produced a scientific documentary on eel biodiversity in Tanzania — serving as narrator.
 :::
 
 ---
@@ -47,51 +60,47 @@ Graduate research focused on [coastal ecology / marine biodiversity / relevant t
       <div class="skill-bar"><div class="skill-fill" data-width="90"></div></div>
     </div>
     <div class="skill-bar-wrap">
-      <div class="skill-label">Python</div>
-      <div class="skill-bar"><div class="skill-fill" data-width="65"></div></div>
-    </div>
-    <div class="skill-bar-wrap">
-      <div class="skill-label">SQL / Database Management</div>
-      <div class="skill-bar"><div class="skill-fill" data-width="75"></div></div>
-    </div>
-    <div class="skill-bar-wrap">
       <div class="skill-label">Excel / Spreadsheet Analysis</div>
       <div class="skill-bar"><div class="skill-fill" data-width="85"></div></div>
+    </div>
+    <div class="skill-bar-wrap">
+      <div class="skill-label">Python</div>
+      <div class="skill-bar"><div class="skill-fill" data-width="25"></div></div>
+    </div>
+    <div class="skill-bar-wrap">
+      <div class="skill-label">SQL</div>
+      <div class="skill-bar"><div class="skill-fill" data-width="25"></div></div>
     </div>
   </div>
 
   <div class="skill-category">
     <h3>GIS & Spatial Analysis</h3>
     <div class="skill-bar-wrap">
+      <div class="skill-label">ArcGIS / ArcGIS Online</div>
+      <div class="skill-bar"><div class="skill-fill" data-width="60"></div></div>
+    </div>
+    <div class="skill-bar-wrap">
       <div class="skill-label">QGIS</div>
-      <div class="skill-bar"><div class="skill-fill" data-width="85"></div></div>
-    </div>
-    <div class="skill-bar-wrap">
-      <div class="skill-label">ArcGIS</div>
-      <div class="skill-bar"><div class="skill-fill" data-width="70"></div></div>
-    </div>
-    <div class="skill-bar-wrap">
-      <div class="skill-label">R Spatial (sf, terra, tmap)</div>
-      <div class="skill-bar"><div class="skill-fill" data-width="80"></div></div>
+      <div class="skill-bar"><div class="skill-fill" data-width="60"></div></div>
     </div>
   </div>
 
   <div class="skill-category">
-    <h3>Visualisation & Reporting</h3>
+    <h3>Field Data & Reporting</h3>
     <div class="skill-bar-wrap">
-      <div class="skill-label">ggplot2</div>
+      <div class="skill-label">KoboToolbox</div>
       <div class="skill-bar"><div class="skill-fill" data-width="90"></div></div>
     </div>
     <div class="skill-bar-wrap">
-      <div class="skill-label">R Shiny Dashboards</div>
-      <div class="skill-bar"><div class="skill-fill" data-width="70"></div></div>
+      <div class="skill-label">Survey123</div>
+      <div class="skill-bar"><div class="skill-fill" data-width="85"></div></div>
     </div>
     <div class="skill-bar-wrap">
-      <div class="skill-label">Plotly / Interactive Charts</div>
-      <div class="skill-bar"><div class="skill-fill" data-width="72"></div></div>
+      <div class="skill-label">R Markdown / Quarto (Reporting)</div>
+      <div class="skill-bar"><div class="skill-fill" data-width="80"></div></div>
     </div>
     <div class="skill-bar-wrap">
-      <div class="skill-label">Quarto / R Markdown</div>
+      <div class="skill-label">ggplot2 (Visualisation)</div>
       <div class="skill-bar"><div class="skill-fill" data-width="85"></div></div>
     </div>
   </div>
@@ -132,25 +141,25 @@ document.addEventListener('DOMContentLoaded', () => {
 ::: {.skill-tag-group}
 **Marine Surveys**
 
-[Reef Fish Counts]{.skill-tag} [Coral Health Assessment]{.skill-tag} [Benthic Surveys]{.skill-tag} [Seagrass Transects]{.skill-tag} [Mangrove Surveys]{.skill-tag} [Invertebrate Monitoring]{.skill-tag}
+[Reef Fish Visual Census]{.skill-tag} [Coral Health Assessment]{.skill-tag} [Benthic Surveys]{.skill-tag} [Seagrass Transects]{.skill-tag} [Mangrove Surveys]{.skill-tag} [Octopus & Prawn Monitoring]{.skill-tag} [Underwater Visual Census]{.skill-tag}
 :::
 
 ::: {.skill-tag-group}
 **Ecological Methods**
 
-[Biodiversity Indices]{.skill-tag} [Species Distribution Modelling]{.skill-tag} [Time Series Analysis]{.skill-tag} [Statistical Modelling]{.skill-tag} [Ecological Baseline Studies]{.skill-tag}
+[Biodiversity Indices]{.skill-tag} [Time Series Analysis]{.skill-tag} [Statistical Modelling]{.skill-tag} [Ecological Baseline Studies]{.skill-tag} [Data Quality Control]{.skill-tag} [Protocol Design]{.skill-tag}
 :::
 
 ::: {.skill-tag-group}
 **Conservation & Management**
 
-[MPA Design Support]{.skill-tag} [LMMA Facilitation]{.skill-tag} [Conservation Planning]{.skill-tag} [Stakeholder Engagement]{.skill-tag} [Citizen Science Design]{.skill-tag} [Impact Assessment]{.skill-tag}
+[Marine Protected Areas]{.skill-tag} [Co-management Planning]{.skill-tag} [Octopus Closures]{.skill-tag} [Stakeholder Engagement]{.skill-tag} [Citizen Science Design]{.skill-tag} [Adaptive Management]{.skill-tag}
 :::
 
 ::: {.skill-tag-group}
 **Communication**
 
-[Scientific Report Writing]{.skill-tag} [Data Storytelling]{.skill-tag} [Workshop Facilitation]{.skill-tag} [Documentary Consultation]{.skill-tag} [Community Training]{.skill-tag}
+[Scientific Report Writing]{.skill-tag} [Documentary Production]{.skill-tag} [Workshop Facilitation]{.skill-tag} [Community Training]{.skill-tag} [Conference Presentations]{.skill-tag} [Science Narration]{.skill-tag}
 :::
 
 :::
@@ -172,7 +181,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
 ```{=html}
 <div class="cv-download-box">
-  <p>Full curriculum vitae with complete education, publications, and work history.</p>
+  <p>Full curriculum vitae with complete education, project history, and work experience.</p>
   <a href="documents_/Laurian_kaijage_general_CV.pdf" download class="cta-btn primary">⬇ Download CV (PDF)</a>
   <a href="cv.html" class="cta-btn secondary">View CV Online</a>
 </div>

@@ -1,6 +1,6 @@
 ---
 title: "Laurian Kaijage"
-subtitle: "Marine Scientist | Ecological Data Manager | Conservation Practitioner"
+subtitle: "Marine Scientist & Data Analyst"
 image: image/profile.JPG
 description: "Marine Scientist specializing in ecological data management and coastal conservation in Tanzania"
 about:

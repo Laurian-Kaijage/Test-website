@@ -34,7 +34,7 @@ Trained **200 community members** across **50 communities** (Zanzibar and Tanga 
 ::: {.impact-area-card}
 ### 🤿 In-Water Monitoring — Coral Reef Visual Census
 
-Trained **300+ in-water monitors** in underwater visual census (UVC) techniques for coral reef monitoring, including data collection and analysis. A landmark achievement within this programme: **70 of these monitors are women** — breaking a significant cultural barrier in coastal Tanzania, where women's participation in snorkelling and underwater activities is highly unconventional.
+Trained **300+ in-water monitors** in underwater visual census (UVC) techniques for coral reef monitoring, including data collection and analysis. A landmark achievement: **70 of these monitors are women** — breaking a significant cultural barrier in coastal Tanzania, where women's participation in snorkelling and underwater activities is highly unconventional.
 
 **Outcomes:**
 - 300+ trained underwater visual census monitors
@@ -44,15 +44,15 @@ Trained **300+ in-water monitors** in underwater visual census (UVC) techniques 
 :::
 
 ::: {.impact-area-card}
-### 🪸 Coral Reef Restoration Support
+### 🪸 Coral Reef Restored Area
 
-Provided data analysis and monitoring support for the restoration of **347 hectares of coral reef replenishment zones**, including the deployment of **1,300 artificial reef structures**. This work involved designing data collection protocols, coordinating field surveys, and analysing reef health data to track restoration progress.
+Provided data analysis and monitoring support for the restoration of **347 hectares of coral reef restored area**, including the deployment of **1,300 artificial reef structures**. This work involved designing data collection protocols, coordinating field surveys, and analysing reef health data to track restoration progress.
 
 **Outcomes:**
-- 347 ha of coral reef replenishment zone established and monitored
+- 347 ha of coral reef area restored and monitored
 - 1,300 artificial reef structures deployed and tracked
 - Reef health data used to measure restoration effectiveness
-- Monitoring protocols adapted for long-term replenishment zone management
+- Monitoring protocols adapted for long-term community fish replenishment zone management
 :::
 
 ::: {.impact-area-card}
@@ -95,64 +95,50 @@ Led **all ecological data analysis** for Mwambao's ecological department — spa
 
 ---
 
-## Conservation Timeline
+## Professional Journey
+
+*A timeline of roles, projects, and milestones across Tanzania's coastal conservation sector.*
 
 ```{=html}
 <div class="timeline">
 
   <div class="timeline-item left">
     <div class="timeline-content">
-      <span class="timeline-year">2019</span>
-      <h3>Joined Mwambao Coastal Community Network</h3>
-      <p>Began ecological monitoring fieldwork along Tanzania's northern coast. Established foundational data systems and began engaging coastal communities in conservation activities.</p>
+      <span class="timeline-year">2021 – 2023</span>
+      <h3>Research Assistant — BIOEEL-TZ, University of Dar es Salaam</h3>
+      <p>Conducted fish biodiversity data collection and analysis, environmental parameter monitoring, and community capacity building workshops. Supported international conference reporting and co-produced a scientific documentary on anguillid eels in Tanzania as narrator and field researcher.</p>
     </div>
   </div>
 
   <div class="timeline-item right">
-    <div class="timeline-content">
-      <span class="timeline-year">2020</span>
-      <h3>Community Fisheries Training Launched</h3>
-      <p>Designed and rolled out fisheries data collection training across coastal communities in Zanzibar and the Tanga region — covering reef fish, prawns, and octopus monitoring protocols.</p>
-    </div>
-  </div>
-
-  <div class="timeline-item left">
-    <div class="timeline-content">
-      <span class="timeline-year">2021</span>
-      <h3>In-Water Monitor Training Programme</h3>
-      <p>Launched a major training programme for 300+ in-water monitors on underwater visual census techniques. Trained 70 women as underwater monitors — a historic first in this region's conservation work.</p>
-    </div>
-  </div>
-
-  <div class="timeline-item right">
-    <div class="timeline-content">
-      <span class="timeline-year">2022</span>
-      <h3>Fish Catch Monitoring Protocol & Survey Forms</h3>
-      <p>Developed Mwambao's second institutional fish catch monitoring protocol and created 10+ standardised ecological survey forms across all ecosystem types monitored by the ecological department.</p>
-    </div>
-  </div>
-
-  <div class="timeline-item left">
     <div class="timeline-content">
       <span class="timeline-year">2023</span>
-      <h3>Coral Reef Restoration — 347 Ha & 1,300 Artificial Reefs</h3>
-      <p>Provided data analysis and monitoring support for the establishment of 347 hectares of coral reef replenishment zones, including the deployment and tracking of 1,300 artificial reef structures.</p>
+      <h3>Ecological Data Manager — Mwambao Coastal Community Network</h3>
+      <p>Took on the full ecological data management role at Mwambao — designing monitoring protocols, leading community training across 50 communities, building data pipelines in R, and producing annual reports across fisheries, coral reef, mangrove, and seagrass programmes.</p>
+    </div>
+  </div>
+
+  <div class="timeline-item left">
+    <div class="timeline-content">
+      <span class="timeline-year">2023 – 2024</span>
+      <h3>Communications Manager — Sustainable Ocean Alliance Tanzania</h3>
+      <p>Served as Communications Manager for SOA Tanzania — mobilising members, facilitating onboarding, bridging leadership and community members, and promoting active participation in ocean conservation programmes.</p>
     </div>
   </div>
 
   <div class="timeline-item right">
     <div class="timeline-content">
       <span class="timeline-year">2024</span>
-      <h3>Mangrove Restoration — 60 Ha Supported</h3>
-      <p>Supported the restoration of 60 hectares of mangrove habitat through data collection protocol design, field surveys, and analysis — alongside continued seagrass and multi-habitat monitoring.</p>
+      <h3>Youth Sounding Board Member — EU Commission Tanzania</h3>
+      <p>Selected to the EU Ambassador's Youth Sounding Board, advising on youth participation and empowerment in the blue economy, human capital, employment, and governance in Tanzania.</p>
     </div>
   </div>
 
   <div class="timeline-item left">
     <div class="timeline-content">
-      <span class="timeline-year">2025</span>
-      <h3>Leading All Ecological Data Analysis</h3>
-      <p>Took full responsibility for all ecological data analysis across Mwambao's department — fisheries, coral reef, mangrove, and seagrass programmes — driving adaptive management and long-term conservation planning.</p>
+      <span class="timeline-year">2026</span>
+      <h3>Marine Ecology Officer — The Nature Conservancy</h3>
+      <p>Joined The Nature Conservancy as Marine Ecology Officer, leading fieldwork coordination, data collection protocols, and stakeholder engagement under the Pamoja Tuhifadhi Bahari Yetu project — working across Mtwara and Unguja North to strengthen marine co-management and biodiversity conservation.</p>
     </div>
   </div>
 
@@ -183,7 +169,7 @@ Led **all ecological data analysis** for Mwambao's ecological department — spa
   </div>
   <div class="stat-box">
     <div class="stat-number">347 ha</div>
-    <div class="stat-desc">Coral reef replenishment zone established & monitored</div>
+    <div class="stat-desc">Coral reef area restored and monitored</div>
   </div>
   <div class="stat-box">
     <div class="stat-number">1,300</div>
@@ -205,9 +191,11 @@ Led **all ecological data analysis** for Mwambao's ecological department — spa
 ## Partners & Collaborators
 
 ::: {.partners-row}
-- **Mwambao Coastal Community Network** — primary institution and conservation network
+- **The Nature Conservancy** — current employer, Pamoja Tuhifadhi Bahari Yetu project
+- **Mwambao Coastal Community Network** — ecological data management and community programmes
+- **Sustainable Ocean Alliance Tanzania** — communications and member engagement
+- **EU Commission Tanzania** — Youth Sounding Board advisory member
+- **University of Dar es Salaam / BIOEEL-TZ** — research and documentary production
 - **Coastal fishing communities** — Zanzibar and Tanga region (50 communities)
 - **Local Government Authorities** — management plan integration and marine spatial planning
-- **Women's community groups** — in-water monitoring and gender inclusion in conservation
-- **Regional Research & NGO Partners** — coral reef and mangrove restoration programmes
 :::

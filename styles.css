@@ -52,6 +52,12 @@ hr {
 .navbar .nav-link:hover {
   color: var(--accent) !important;
 }
+.navbar .nav-link.active,
+.navbar .nav-item.active > .nav-link {
+  color: var(--accent) !important;
+  border-bottom: 2px solid var(--accent);
+  font-weight: 700;
+}
 
 /* ── Page Hero Banner ───────────────────────────────────── */
 .page-hero {
@@ -372,6 +378,16 @@ hr {
 }
 .media-card:hover { box-shadow: 0 6px 18px rgba(0,0,0,0.08); }
 .media-card h3 { margin-top: 0; }
+
+.video-embed {
+  border-radius: 10px;
+  overflow: hidden;
+  margin: 1.2rem 0;
+}
+.video-embed iframe {
+  display: block;
+  border-radius: 10px;
+}
 
 .video-placeholder {
   background: var(--dark);

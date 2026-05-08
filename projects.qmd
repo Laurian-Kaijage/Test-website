@@ -1,136 +1,112 @@
 ---
 title: "Projects"
-description: "Research and conservation projects in marine science, ecological data, and community conservation across Tanzania"
+description: "Funded conservation and research projects across Tanzania's coastal and marine ecosystems"
 ---
 
 ```{=html}
 <div class="page-hero">
-  <p class="hero-tagline">Science in action — research, monitoring, and restoration at scale</p>
+  <p class="hero-tagline">Science in action — funded projects driving conservation across Tanzania's coast</p>
 </div>
 ```
 
-## Featured Projects
+## Funded Projects
 
 ::: {.project-grid}
 
 ::: {.card}
-### Community Fisheries Training Programme
-**Organisation:** Mwambao Coastal Community Network
-**Reach:** Zanzibar & Tanga Region, Northern Tanzania
+### Pamoja Tuhifadhi Bahari Yetu
+**Funder:** European Union | **Organisation:** The Nature Conservancy
+**Period:** May 2026 – Present
 
-Designed and delivered fisheries data collection training to **200 community members** across **50 coastal communities**, covering protocols for reef fish, prawns, and octopus monitoring. Community-generated data is fed into local management plans and used to drive adaptive management decisions — putting fishers at the centre of their own resource management.
+A multi-partner EU-funded project designed to strengthen governance frameworks, improve institutional capacity, promote community engagement, and support research, monitoring and surveillance systems for coastal and marine ecosystems in Tanzania. The overarching goal is to improve environmental protection and biodiversity conservation.
 
-**Outcomes:**
-- 200 trained community monitors across 50 communities
-- Reef fish, prawn, and octopus data collection protocols adopted
-- Community data directly informs local fisheries management plans
-- Adaptive management decisions supported by community-generated data
+**My Role:**
+- Coordinate and lead fieldwork activities in Mtwara and Unguja North
+- Design data collection protocols and oversee field data management
+- Facilitate community and partner consultations (IUCN, WWF, WCS, Forum CC)
+- Track workplan delivery against EU–IUCN and TNC requirements
+- Coordinate fellows, interns, and consultants on programme objectives
 
-**Tools:** KoboToolbox · Field data forms · R · Training materials
-
-[Community Training]{.badge} [Fisheries]{.badge} [Adaptive Management]{.badge}
+[Marine Conservation]{.badge} [EU Funded]{.badge} [Community Engagement]{.badge} [Governance]{.badge}
 :::
 
 ::: {.card}
-### In-Water Monitor Training — Underwater Visual Census
-**Organisation:** Mwambao Coastal Community Network
+### TNC — Strengthening Marine Co-management & Livelihoods
+**Funder:** The Nature Conservancy | **Organisation:** The Nature Conservancy
+**Period:** July 2025 – Present
 
-Trained **300+ community members** as in-water monitors using underwater visual census (UVC) techniques for coral reef monitoring. Training covered both data collection and analysis, enabling monitors to independently assess reef health and contribute to restoration planning. A landmark outcome: **70 women** were trained as in-water monitors — highly unconventional in coastal Tanzania where women's participation in snorkelling is culturally rare.
+Focused on strengthening fisheries co-management in Tanga and reef restoration in Pemba Island, Tanzania. The project supports sustainable livelihoods for coastal communities through improved marine resource governance and restoration of key habitats.
 
-**Outcomes:**
-- 300+ in-water monitors trained in UVC methodology
-- **70 women** trained as underwater monitors — unprecedented in this region
-- Training extended to data analysis, building full monitoring capacity
-- UVC data used to guide coral reef restoration and replenishment planning
+**My Role:**
+- Support fisheries co-management planning and community engagement
+- Coordinate reef restoration monitoring and data collection
+- Facilitate stakeholder engagement across Tanga and Pemba Island
 
-**Tools:** Underwater survey slates · KoboToolbox · R · Field data analysis
-
-[Coral Reef Monitoring]{.badge} [Gender Inclusion]{.badge} [UVC]{.badge} [Capacity Building]{.badge}
+[Reef Restoration]{.badge} [Co-management]{.badge} [Livelihoods]{.badge} [Pemba Island]{.badge}
 :::
 
 ::: {.card}
-### Coral Reef Restoration — Data Support
-**Organisation:** Mwambao Coastal Community Network
+### Blue Action Fund — Socio-Ecological Resilience, Pemba Channel
+**Funder:** Blue Action Fund | **Organisation:** Mwambao Coastal Community Network
+**Period:** June 2023 – April 2026
 
-Provided end-to-end data support for the restoration of **347 hectares of coral reef replenishment zones**, including the deployment and monitoring of **1,300 artificial reef structures**. Responsibilities covered data collection protocol design, field survey coordination, and analysis of reef health data to measure restoration effectiveness over time.
+Supported marine conservation projects aimed at increasing socio-ecological resilience through community-led management of key coastal ecosystems in the Pemba Channel, Tanzania. The programme focused on conserving the ocean and improving the livelihoods of coastal communities.
 
-**Outcomes:**
-- 347 ha of coral reef replenishment zone established and monitored
-- 1,300 artificial reef structures deployed and tracked
-- Reef health monitoring data informing ongoing restoration management
-- Monitoring protocols developed for long-term replenishment zone tracking
+**My Role:**
+- Led ecological data management and analysis throughout the project lifecycle
+- Designed and implemented biodiversity monitoring protocols
+- Produced funder reports and contributed to adaptive management decisions
+- Trained community monitors in fisheries and reef health data collection
 
-**Tools:** Underwater survey forms · R · QGIS · KoboToolbox
-
-[Coral Restoration]{.badge} [Artificial Reef]{.badge} [Data Analysis]{.badge}
+[Blue Economy]{.badge} [Community-Led Conservation]{.badge} [Pemba Channel]{.badge} [Resilience]{.badge}
 :::
 
 ::: {.card}
-### Mangrove Restoration — Data & Protocol Support
-**Organisation:** Mwambao Coastal Community Network
+### NORAD — Sustainable & Inclusive Coastal Marine Economy
+**Funder:** NORAD | **Organisation:** Mwambao Coastal Community Network
+**Period:** June 2023 – June 2025
 
-Supported the restoration of approximately **60 hectares of mangrove habitat** through data collection protocol design and ecological analysis. Work included field surveys to track restoration progress, analysis of mangrove extent and health, and integration with seagrass monitoring for a connected coastal habitat picture.
+Through NORAD support, this project actively engaged communities in Mkokotoni, Mtowapwani, Muwanda, Makoba, Mafufuni, Misufini, Bima Subuni, Boma Kichakamiba, Zingibar, Mwaboza, and Moa towards building a sustainable and inclusive coastal marine economy on the East African Coast.
 
-**Outcomes:**
-- 60 ha of mangrove area supported through data-driven restoration
-- Restoration monitoring protocols designed and implemented
-- Mangrove extent and health tracked using standardised field surveys
-- Data integrated with seagrass and reef monitoring for holistic coastal assessment
+**My Role:**
+- Ecological data collection and analysis across community sites
+- Supported community marine economy planning with ecological evidence
+- Coordinated field teams and community-based data collectors
 
-**Tools:** QGIS · R · Field survey forms · KoboToolbox
-
-[Mangrove Restoration]{.badge} [Seagrass]{.badge} [Habitat Monitoring]{.badge}
+[Marine Economy]{.badge} [Community]{.badge} [East Africa]{.badge} [NORAD]{.badge}
 :::
 
 ::: {.card}
-### Fish Catch Monitoring Protocol Development
-**Organisation:** Mwambao Coastal Community Network
+### ECOFISH — Sustainable Marine Resource Management in Small-Scale Fisheries
+**Funder:** European Union | **Organisation:** Mwambao Coastal Community Network
+**Period:** June 2023 – December 2024
 
-Developed **Mwambao's second institutional fish catch monitoring protocol** — a comprehensive data collection framework standardising how fisheries catch and effort data is recorded across the entire network. This protocol is now the backbone of the organisation's fisheries monitoring programme.
+Part of the EU-funded 6-year ECOFISH programme (2018–2024), this component promoted equitable governance of tenure in small-scale fishing communities in Zanzibar and the NE Tanzanian coast — extending successful octopus closure pilot initiatives and improving policies for better fisheries management across Eastern Africa, Southern Africa, and the Indian Ocean Region.
 
-**Outcomes:**
-- New protocol adopted across the Mwambao network
-- Standardised data collection improving consistency and data quality
-- Protocol supports catch trend analysis and stock assessment
-- Replaces and improves upon the previous monitoring framework
+**My Role:**
+- Data collection and protocol design for octopus and fisheries monitoring
+- Supported community governance planning with catch and effort data
+- Contributed to regional data sharing and policy advocacy
 
-**Tools:** Protocol design · KoboToolbox · R · Stakeholder consultation
-
-[Protocol Development]{.badge} [Fisheries Management]{.badge} [Institutional Tools]{.badge}
+[Fisheries Governance]{.badge} [Octopus Closures]{.badge} [EU Funded]{.badge} [Small-Scale Fisheries]{.badge}
 :::
 
 ::: {.card}
-### Ecological Survey Forms — 10+ Tools Designed
-**Organisation:** Mwambao Coastal Community Network
+### BIOEEL-TZ — Anguillid Eel Biodiversity, Tanzania
+**Funder:** International / University Partnership | **Organisation:** University of Dar es Salaam
+**Period:** March 2021 – January 2024
 
-Designed and built **10+ digital and paper-based ecological survey forms** covering all ecosystem types monitored by the Mwambao ecological department — including reef fish, coral cover, seagrass, mangrove, octopus, and prawn surveys. Forms are used by field teams and community monitors across all active sites.
+An interdisciplinary project bridging knowledge gaps on migratory anguillid eels in Tanzania — examining the impacts of fisheries and economic activities on eel populations. The project combined scientific data collection with public outreach, involving fishing communities and schools. A milestone for awareness-raising about unknown natural resources in Tanzania.
 
-**Outcomes:**
-- 10+ survey forms in active use across programmes
-- Consistent data structure across reef fish, coral, seagrass, mangrove, octopus, and prawn monitoring
-- Reduced field data errors and improved data comparability
-- Digital forms integrated with KoboToolbox for streamlined data flow
+🔗 [meerwissen.org/partnership-projects/bioeels-tz/](https://meerwissen.org/partnership-projects/bioeels-tz/)
 
-**Tools:** KoboToolbox · ODK · Excel · Field testing with monitors
+**My Role:**
+- Fish biodiversity data collection and environmental parameter analysis
+- Narrated and contributed to a scientific documentary on anguillid eels (part of MSc thesis)
+- Facilitated community workshops and school outreach activities
+- Presented findings at international conferences
 
-[Survey Design]{.badge} [Data Management]{.badge} [Multi-Ecosystem]{.badge}
-:::
-
-::: {.card}
-### Ecological Data Analysis — Full Department
-**Organisation:** Mwambao Coastal Community Network
-
-Responsible for **all ecological data analysis** across Mwambao's ecological department — spanning fisheries, coral reef monitoring, mangrove restoration, and seagrass monitoring programmes. Built reproducible R-based analytical pipelines and produces annual reports and dashboards that drive conservation planning.
-
-**Outcomes:**
-- End-to-end analysis across four major ecosystem monitoring programmes
-- Annual biodiversity and restoration reports produced for stakeholders
-- R pipelines automating data cleaning, analysis, and visualisation
-- Adaptive management recommendations delivered based on analytical findings
-
-**Tools:** R · ggplot2 · Quarto · KoboToolbox API · QGIS · SQL
-
-[Data Analysis]{.badge} [R Programming]{.badge} [Multi-Programme]{.badge} [Reporting]{.badge}
+[Eels]{.badge} [Biodiversity]{.badge} [Documentary]{.badge} [MSc Research]{.badge} [Community Outreach]{.badge}
 :::
 
 :::
@@ -139,8 +115,8 @@ Responsible for **all ecological data analysis** across Mwambao's ecological dep
 
 ```{=html}
 <div class="cta-bar">
-  <a href="impact.html" class="cta-btn primary">See Full Impact & Outcomes</a>
+  <a href="impact.html" class="cta-btn primary">See Impact & Outcomes</a>
+  <a href="media.html" class="cta-btn secondary">Watch Documentaries</a>
   <a href="skills.html" class="cta-btn secondary">View Skills & Experience</a>
-  <a href="mailto:lauriankaijage@gmail.com" class="cta-btn secondary">Collaborate</a>
 </div>
 ```

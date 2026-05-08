@@ -1,130 +1,77 @@
 ---
 title: "Documentaries & Media"
-description: "Documentary features, media coverage, and science communication from Tanzania's coastal conservation frontline"
+description: "Documentary features and science communication from Tanzania's coastal conservation frontline"
 ---
 
 ```{=html}
 <div class="page-hero">
-  <p class="hero-tagline">Stories from the Swahili Coast — conservation through film and media</p>
+  <p class="hero-tagline">Stories from the Swahili Coast — conservation through film and science communication</p>
 </div>
 ```
 
 ## Documentary Features
 
-My field work and conservation expertise have been featured in documentary productions highlighting the challenges and progress of coastal conservation in Tanzania. These films bring the science and the human stories of ocean stewardship to audiences worldwide.
+I have been involved in documentary productions both as a narrator and as a field director — bringing scientific research and conservation stories to wider audiences.
 
 ---
 
 ::: {.media-card}
-### Documentary Feature 1
-**Year:** 2021 | **Region:** Swahili Coast, Tanzania
+### Anguillid Eels of Tanzania — Biodiversity & Conservation Awareness
+**Year:** 2022 | **Project:** BIOEEL-TZ, University of Dar es Salaam
 
-**Description:** This documentary explores community-based marine conservation along Tanzania's coast, featuring ecological monitoring fieldwork and interviews with fishing communities. The film captures the intersection of traditional fishing knowledge and modern conservation science.
-
-**My Role:** Field researcher and technical consultant — guided film crew through reef survey methodology and facilitated community interview sessions.
+This documentary was produced as part of the BIOEEL-TZ research project and formed a component of my MSc thesis work. I served as **narrator** — translating the science of anguillid eel biodiversity into an accessible story for communities, schools, and the wider public. The film raised awareness about the ecological importance of eels as an underappreciated natural resource in Tanzania.
 
 ```{=html}
-<div class="video-placeholder">
-  <div class="video-play-icon">▶</div>
-  <p>Video embed — add YouTube/Vimeo URL to activate</p>
-  <!-- Replace with: <iframe width="100%" height="400" src="https://www.youtube.com/embed/YOUR_VIDEO_ID" frameborder="0" allowfullscreen></iframe> -->
+<div class="video-embed">
+  <iframe width="100%" height="400" src="https://www.youtube.com/embed/xG5QM6aQlzY?si=gBLKj8OGId_46Awa" title="Anguillid Eels of Tanzania Documentary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 ```
 
 ::: {.media-tags}
-[Marine Conservation]{.media-tag} [Community]{.media-tag} [Tanzania]{.media-tag} [Field Research]{.media-tag}
+[Anguillid Eels]{.media-tag} [MSc Research]{.media-tag} [Narrator]{.media-tag} [Biodiversity]{.media-tag} [Science Communication]{.media-tag}
 :::
 :::
 
 ---
 
 ::: {.media-card}
-### Documentary Feature 2
-**Year:** 2022 | **Region:** Pemba Island & Mainland Coast
+### Octopus Closures — Coastal Conservation in Action
+**Year:** 2024 | **Project:** Mwambao Coastal Community Network
 
-**Description:** A closer look at the ecological health of Pemba Island's coral reefs and the monitoring systems in place to track change. Features underwater footage of reef fish surveys, coral health assessments, and discussions of climate resilience.
-
-**My Role:** Lead field researcher — coordinated all in-water survey activities and provided ecological commentary for the film's scientific narrative.
+Produced during my time at Mwambao, this documentary highlights octopus closure strategies as a conservation and livelihood tool for small-scale fishing communities. I **directed the underwater video taking** — coordinating underwater filming to capture reef habitats, marine life, and the field realities of community-based conservation. The film aims to build public awareness and support for community-led marine management strategies.
 
 ```{=html}
-<div class="video-placeholder">
-  <div class="video-play-icon">▶</div>
-  <p>Video embed — add YouTube/Vimeo URL to activate</p>
+<div class="video-embed">
+  <iframe width="100%" height="400" src="https://www.youtube.com/embed/KZM4xrr23yQ?si=SXwDQtAG9HphkHPp" title="Octopus Closures Documentary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 ```
 
 ::: {.media-tags}
-[Coral Reefs]{.media-tag} [Biodiversity]{.media-tag} [Pemba Island]{.media-tag} [Climate]{.media-tag}
+[Octopus Closures]{.media-tag} [Underwater Filming]{.media-tag} [Community Conservation]{.media-tag} [Mwambao]{.media-tag} [Marine Livelihoods]{.media-tag}
 :::
-:::
-
----
-
-::: {.media-card}
-### Short Film: Community Data Collectors
-**Year:** 2023 | **Format:** Short documentary
-
-**Description:** A short film spotlighting the community-based monitoring programme — following local fishers trained as citizen scientists as they conduct reef health surveys. A human-centred story about conservation ownership.
-
-**My Role:** Programme designer and trainer for the citizen science programme featured in the film.
-
-```{=html}
-<div class="video-placeholder">
-  <div class="video-play-icon">▶</div>
-  <p>Video embed — add YouTube/Vimeo URL to activate</p>
-</div>
-```
-
-::: {.media-tags}
-[Citizen Science]{.media-tag} [Community]{.media-tag} [Training]{.media-tag} [Short Film]{.media-tag}
-:::
-:::
-
----
-
-## Media Coverage & Publications
-
-::: {.media-list}
-
-::: {.media-item}
-**📰 Article** — *Mwambao Annual Conservation Report 2023*
-Contributed ecological data analysis chapters and co-authored findings on biodiversity trends across monitored coastal sites.
-:::
-
-::: {.media-item}
-**📰 Article** — *Regional Coastal Biodiversity Assessment*
-Contributed species observation datasets and mapping outputs to a regional multi-partner biodiversity assessment.
-:::
-
-::: {.media-item}
-**🎙️ Podcast / Interview** — *Conservation Science on the Swahili Coast*
-Discussed field monitoring methodology, community engagement challenges, and the role of data in conservation decision-making.
-*(Link to be added)*
-:::
-
 :::
 
 ---
 
 ## Science Communication
 
-Beyond documentary work, I communicate conservation science through:
+Beyond film, I communicate conservation science through:
 
 ::: {.comms-grid}
 
 ::: {.comms-card}
-### 📊 Data Reports
-Annual and project-specific biodiversity reports translated from technical datasets into accessible findings for government, NGO, and community audiences.
+### 📊 Technical Reports
+Annual and project-specific biodiversity and restoration reports — translating field data into accessible findings for government, NGO, and community audiences across multiple funded programmes.
 :::
 
 ::: {.comms-card}
-### 🗣️ Workshops & Presentations
-Presenting monitoring results at multi-stakeholder forums, including government planning sessions and conservation network convenings.
+### 🗣️ Conferences & Presentations
+Presented scientific findings at international conferences and school-level outreach sessions as part of the BIOEEL-TZ project — bridging academic research and public understanding.
 :::
 
 ::: {.comms-card}
-### 📱 Field Storytelling
-Using photography and field notes to document and share conservation stories from monitoring sites — bridging the gap between fieldwork and public awareness.
+### 👥 Community Workshops
+Facilitated stakeholder and community workshops on fisheries governance, octopus closures, and biodiversity monitoring — building conservation ownership at the grassroots level.
 :::
 
 :::
@@ -133,7 +80,7 @@ Using photography and field notes to document and share conservation stories fro
 
 ```{=html}
 <div class="media-cta">
-  <p>Have a documentary project or media opportunity? I'm open to collaborations that amplify conservation science.</p>
+  <p>Open to documentary collaborations and science communication opportunities that amplify coastal conservation stories.</p>
   <a href="mailto:lauriankaijage@gmail.com" class="cta-btn primary">Get in Touch</a>
 </div>
 ```
