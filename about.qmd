@@ -16,11 +16,11 @@ This website serves as a portfolio and professional CV showcasing my work in mar
 
 I am a marine scientist with a strong passion for understanding and protecting coastal ecosystems. With expertise in ecological data management, statistical analysis, and conservation planning, I work to bridge the gap between scientific research and practical conservation implementation.
 
-My work at Mwambao Coastal Community Network focuses on:
-- Biodiversity monitoring and assessment
-- Data-driven conservation planning
-- Community engagement and capacity building
-- Ecosystem resilience and climate adaptation
+My current work at **The Nature Conservancy** focuses on:
+- Coordinating fieldwork and data collection across coastal sites in Mtwara and Unguja North
+- Strengthening marine co-management and fisheries governance with local communities
+- Supporting biodiversity conservation under the Pamoja Tuhifadhi Bahari Yetu project
+- Facilitating partnerships with IUCN, WWF, WCS, and community stakeholders
 
 ### Technical Expertise
 
