@@ -5,15 +5,15 @@ project:
 website:
   title: "Laurian Kaijage"
   description: "Laurian Kaijage — Marine Scientist and Data Analyst based in Tanzania. Specialising in coastal ecology, ecological data management, coral reef restoration, and community conservation across Zanzibar and the Swahili Coast."
-  site-url: "https://laurian-kaijage.github.io/Test-website/"
+  site-url: "https://lauriankaijage.netlify.app/"
   open-graph:
     title: "Laurian Kaijage | Marine Scientist & Data Analyst"
     description: "Portfolio of Laurian Kaijage — Marine Scientist and Data Analyst working on coastal conservation, reef restoration, and community training across Tanzania."
-    image: "https://laurian-kaijage.github.io/Test-website/image/profile.jpg"
+    image: "https://lauriankaijage.netlify.app/image/profile.jpg"
   twitter-card:
     title: "Laurian Kaijage | Marine Scientist & Data Analyst"
     description: "Marine Scientist and Data Analyst — coastal conservation, reef restoration, and community training across Tanzania's Swahili Coast."
-    image: "https://laurian-kaijage.github.io/Test-website/image/profile.jpg"
+    image: "https://lauriankaijage.netlify.app/image/profile.jpg"
   navbar:
     left:
       - href: impact.qmd
@@ -61,4 +61,4 @@ include-in-header:
       <meta name="google-site-verification" content="rAksDH-3nQI9AkpomZ0TorPzHNNAtou6UgFlTgN1nlo" />
       <meta name="keywords" content="Laurian Kaijage, marine scientist Tanzania, ecological data manager, coastal conservation Tanzania, coral reef restoration, Swahili Coast conservation, Mwambao, The Nature Conservancy Tanzania, marine biologist Tanzania, data analyst Tanzania" />
       <meta name="author" content="Laurian Kaijage" />
-      <link rel="canonical" href="https://laurian-kaijage.github.io/Test-website/" />
+      <link rel="canonical" href="https://lauriankaijage.netlify.app/" />
