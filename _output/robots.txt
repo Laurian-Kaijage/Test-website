@@ -1,1 +1,1 @@
-Sitemap: https://kaijage-laurian-data.netlify.app/sitemap.xml
+Sitemap: https://lauriankaijage.netlify.app/sitemap.xml
