@@ -1,6 +1,9 @@
 ---
 title: "Projects"
 description: "Funded conservation and research projects across Tanzania's coastal and marine ecosystems"
+include-in-header:
+  - text: |
+      <link rel="canonical" href="https://lauriankaijage.netlify.app/projects.html" />
 ---
 
 ```{=html}

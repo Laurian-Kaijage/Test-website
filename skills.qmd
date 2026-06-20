@@ -1,6 +1,9 @@
 ---
 title: "Skills & Experience"
 description: "Technical expertise, field skills, and professional experience in marine science and ecological data management"
+include-in-header:
+  - text: |
+      <link rel="canonical" href="https://lauriankaijage.netlify.app/skills.html" />
 ---
 
 ```{=html}

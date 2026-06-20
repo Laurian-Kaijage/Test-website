@@ -1,6 +1,9 @@
 ---
 title: "Impact & Ground Work"
 description: "Conservation outcomes, community training, and ecological restoration across Zanzibar and Northern Tanzania"
+include-in-header:
+  - text: |
+      <link rel="canonical" href="https://lauriankaijage.netlify.app/impact.html" />
 ---
 
 ```{=html}

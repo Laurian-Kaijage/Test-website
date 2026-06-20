@@ -1,5 +1,8 @@
 ---
 title: "Laurian Kaijage"
+include-in-header:
+  - text: |
+      <link rel="canonical" href="https://lauriankaijage.netlify.app/index.html" />
 subtitle: "Marine Scientist & Data Analyst"
 image: image/profile.JPG
 description: "Marine Scientist specializing in ecological data management and coastal conservation in Tanzania"

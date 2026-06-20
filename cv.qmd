@@ -1,5 +1,8 @@
 ---
 title: "Curriculum Vitae"
+include-in-header:
+  - text: |
+      <link rel="canonical" href="https://lauriankaijage.netlify.app/cv.html" />
 ---
 
 ## My CV

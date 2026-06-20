@@ -1,6 +1,9 @@
 ---
 title: "Documentaries & Media"
 description: "Documentary features and science communication from Tanzania's coastal conservation frontline"
+include-in-header:
+  - text: |
+      <link rel="canonical" href="https://lauriankaijage.netlify.app/media.html" />
 ---
 
 ```{=html}
