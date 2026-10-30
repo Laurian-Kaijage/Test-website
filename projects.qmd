@@ -31,8 +31,6 @@ A multi-partner EU-funded project designed to strengthen governance frameworks, 
 - Coordinate fellows, interns, and consultants on programme objectives
 
 [Marine Conservation]{.badge} [EU Funded]{.badge} [Community Engagement]{.badge} [Governance]{.badge}
-
-[See the data tool built for this programme →](bahari-yetu-tool.html)
 :::
 
 ::: {.card}
