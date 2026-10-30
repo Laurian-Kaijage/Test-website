@@ -20,6 +20,8 @@ website:
         text: Impact
       - href: projects.qmd
         text: Projects
+      - href: apps.qmd
+        text: Apps
       - href: media.qmd
         text: Documentaries
       - href: skills.qmd

@@ -1,0 +1,69 @@
+---
+title: "Apps & Data Tools"
+description: "Applications and data systems built for coastal conservation in Tanzania — field data pipelines, monitoring dashboards, and reporting tools in R."
+include-in-header:
+  - text: |
+      <link rel="canonical" href="https://lauriankaijage.netlify.app/apps.html" />
+---
+
+```{=html}
+<div class="page-hero">
+  <p class="hero-tagline">Tools that turn field workbooks into decisions — built in R, for the teams that collect the data</p>
+</div>
+```
+
+Conservation work produces data faster than it produces answers. Transects, photographs, catch records and community maps arrive as spreadsheets, and the questions that matter — what is the reef condition here, where is the pressure, what should be protected — get recalculated by hand for every report.
+
+These are the applications I build to close that gap: one pipeline that computes each figure once, and interfaces that read it rather than recompute it.
+
+## Applications
+
+::: {.project-grid}
+
+::: {.card}
+### Bahari Yetu Reporting Tool
+**Role:** design, data pipeline and application | **Built with:** R, Shiny, Leaflet, Quarto
+**Status:** in use by the programme team, 2026
+
+A monitoring, evaluation and analysis system for the EU-funded *Pamoja Tuhifadhi Bahari Yetu* programme. It reads the field workbooks as they are written, checks them, computes survey effort and ecological indicators, and presents them as maps, panels and a quality-control workbook partners open in Excel.
+
+- 25,019 seabed photographs read with their GPS positions
+- Six data types: benthic cover, reef fish, invertebrates, threats, coral recruits, photoquadrats
+- Results reported per site, per region and per management zone
+- A project tracker that updates itself from the field data
+
+[R / Shiny]{.badge .badge-blue} [Spatial]{.badge .badge-green} [Monitoring & Evaluation]{.badge} [EU / TNC]{.badge .badge-orange}
+
+[Read the case study →](bahari-yetu-tool.html)
+:::
+
+:::
+
+## How I build them
+
+::: {.project-grid}
+
+::: {.card}
+### The pipeline computes, the app reads
+Every figure is produced by one script and written down. The interface displays what the pipeline wrote and nothing else, so a number in a report and a number on a map cannot disagree. If a result is missing, the page says which script produces it.
+:::
+
+::: {.card}
+### Checks that report, never repair
+Duplicate transects, sheets copied between sites, GPS positions that jump, names missing from the master list — each script ends by listing what it found. Silent repair hides exactly the problems a data manager needs to see.
+:::
+
+::: {.card}
+### Built for the people who collect the data
+Field teams keep working in Excel. The tools read the workbooks as the teams write them, and hand results back in the same form, so nobody has to change how they record a transect to get a map out of it.
+:::
+
+:::
+
+```{=html}
+<div class="cta-bar">
+  <a class="cta-btn" href="projects.html">Funded projects</a>
+  <a class="cta-btn" href="skills.html">Skills &amp; tools</a>
+  <a class="cta-btn" href="about.html">Work with me</a>
+</div>
+```
