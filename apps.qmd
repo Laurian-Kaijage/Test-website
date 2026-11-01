@@ -17,23 +17,13 @@ include-in-header:
 ::: {.card}
 ### Bahari Yetu Reporting Tool
 
-```{=html}
-<div class="gallery-placeholder">
-  <span class="gallery-icon">📱</span>
-  <p class="gallery-note">Screenshot coming soon</p>
-</div>
-```
+![The Inventory tab: survey progress cards above a map of survey sites and photoquadrat tracks](image/bahari-yetu/map-inventory.jpg){.app-screenshot}
 
-A monitoring and analysis dashboard for the EU-funded *Pamoja Tuhifadhi Bahari Yetu* programme. It reads field workbooks from 20 survey sites across Unguja and Pemba, maps 25,019 seabed photographs by habitat, and produces analysis panels and a QC workbook for the programme team.
+**The project:** Pamoja Tuhifadhi Bahari Yetu is an EU-funded programme implemented by The Nature Conservancy in Tanzania, covering marine ecosystem inventory, valuation and coral reef restoration.
 
-[R / Shiny]{.badge .badge-blue} [Leaflet]{.badge .badge-green} [EU / TNC]{.badge .badge-orange}
+**Data collected:** benthic cover, reef fish, invertebrates, coral recruits, threats and georeferenced seabed photographs.
+
+**What the tool helps with:** tracking survey progress, mapping survey coverage, checking data quality and analysing the results in one place.
 :::
 
 :::
-
-```{=html}
-<div class="cta-bar">
-  <a class="cta-btn" href="projects.html">Funded projects</a>
-  <a class="cta-btn" href="skills.html">Skills &amp; tools</a>
-</div>
-```
